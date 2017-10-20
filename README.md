@@ -54,10 +54,15 @@ The resulting (120k) referring expressions are available from:
 
 They need to be placed at `./ReferItData`.
 
+### Preprocessed Data
+
+Can be found [here](https://www.dropbox.com/sh/h20mxynv3g6zsn3/AABNjMC3OZ29Sk6ZgKznQJuEa?dl=0).
+
 ### Directories
 
 This is how your folder should look like:
 
+```
 ├── EvalExp1
 │   ├── evalgui_exp1.py
 │   ├── exp1_ground_truth_generated.csv
@@ -94,7 +99,7 @@ This is how your folder should look like:
 ├── results.ipynb
 ├── wacgen.py
 ├── wacgen_ia.py
-
+``
 
 # Running the Experiment
 
