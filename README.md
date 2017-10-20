@@ -99,7 +99,7 @@ This is how your folder should look like:
 ├── results.ipynb
 ├── wacgen.py
 ├── wacgen_ia.py
-``
+```
 
 # Running the Experiment
 
