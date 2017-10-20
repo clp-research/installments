@@ -1,0 +1,1501 @@
+,Testset,file,region,gold,google,saia,google_glen
+0,A,1001,4,Hat,guy with hat,guy in middle,hat
+3,A,10028,1,bbird,person in back on right,tree on right,person
+6,A,10065,4,mountain skyline outline,sky at very top,sky top left,very top right
+9,A,10143,1,cake,first one,man in front,table
+12,A,10172,3,big painting on left of wall,white thing next to left,grass on left,white part of picture on left
+15,A,10195,1,boat,little girl in background,trees on left,rocks
+18,A,10368,1,animal,anything but one,palm tree on left,woman
+21,A,10399,3,water above the railing on the right,water on right,top left corner,floor next to right side of water
+24,A,10403,2,light top,okay so click very top,second from right,very top
+27,A,10538,1,Big thatch roof,green,building,i you it
+30,A,1053,1,bed,bed,bottom,bed
+33,A,10633,1,bird,guys head,tree on left,sand
+36,A,10694,1,flower,red,person,red
+39,A,10743,3,bottom left,water at bottom,ground bottom left,bottom right
+42,A,10772,6,rightmost guy,person in background on right,person on right,far right
+45,A,10778,1,building,any part of building,trees on right,building
+48,A,10798,1,red shirt,person in red,guy in red,red shirt
+51,A,10834,4,horse on the left,person standing on left,tree on left,person standing on left
+54,A,10923,3,right surboard,snow on right,man on right,far right
+57,A,11205,1,corn in front,lady in front,people,lady in front
+60,A,11233,2,mountain,top right of mountain,any of people,top
+63,A,11252,4,green snowboard the lady in middle is holding,red and blue,grass on right,blue shirt and red thing on far right
+66,A,11318,4,right pig,little boy face only,person on right,face only
+69,A,11511,5,tupperware lower left,girl in front of picture,second from left,girl in front
+72,A,11539,1,"anywhere in the ""plate",anywhere on right,any part of people,click anywhere on right
+75,A,11547,11,top glass,man in middle,water on left,first one
+78,A,11605,5,anywhere on horse,grass bottom,trees on right,grass in middle
+81,A,11623,6,light colored area on the left side next to pool table,brown thing on left corner,person on left,second floor on left corner very small brown thing in front
+84,A,11626,1,flower bottom left,plant in front,guy in red,plant in front
+87,A,11626,3,flower right one,big tree on far right,person on right,tree on right
+90,A,11679,1,inside what ever that is,okay so door,building on right corner,okay so any of screen
+93,A,11736,6,small cactus bottom left,person on left,person on left,person on bottom left
+96,A,11737,5,spoon,ground bottom left,building on right,ground
+99,A,1177,4,strip of grey on right middle on the building,on right,building,in front of building on right next to left
+102,A,11785,3,white ship,top half off to us,people on right,top right
+105,A,11853,5,trees behind bow,trees in middle,tree on right,trees in middle
+108,A,11963,6,fourth seal from left of center row,click on right,rock on left,that is sitting on right of photo
+111,A,1201,1,blue curtains top,very top right side,sky top right,very top right
+114,A,12142,6,clothes to right and behind guy,blue shirt guy on right,tree on right,light blue shirt guy on right
+117,A,1216,1,tree,palm tree next to right,palm tree on right,trees
+120,A,12190,8,person in all black,person in middle,trees on left,person in black shirt
+123,A,1226,1,door,window on right,wall on right,window
+126,A,12361,6,trunk bottom left,very bottom left,people on left,very bottom left
+129,A,12366,7,plain white hat in middle,girl in front,man on left,patch of girl in front
+132,A,12486,4,mug covered by brown bottle,all way to left,person on left,chair all way to left
+135,A,1248,4,the second umbrella from the right,guy on right,tree on right,that has spiders on far right
+138,A,12559,2,train,rocks,people,rocks
+141,A,12723,1,flower,white and red,guy in red,group
+144,A,12761,1,chair on left oabove bottom one,second from left of table,tree on left,second from left side of table
+147,A,12765,8,left gate,tree on left,people on left,on left
+150,A,12846,5,painting left,brick wall on left,building on left,brick wall
+153,A,12896,2,dog,red,tree on right,ground
+156,A,12901,10,picture above dark skinned guy,wall on left,second from left,brick wall on left corner
+159,A,12919,9,house in center,rock in middle of building,person in middle,rock in middle
+162,A,12956,4,the green ballon,girl in background on left,person on left,second from left
+165,A,12982,8,Guy sitting down.,guy in red shirt,person on left,second from left
+168,A,1300,9,flags,top left corner,person on left,top
+171,A,1316,1,frame picture,white wall on right,trees on right,on right
+174,A,13185,1,middle of flower thingy,top left corner,top,tree on left corner
+177,A,13215,4,water below mountains,dark area to left,water on left,grass on left
+180,A,1323,8,buidling,any part of yellow building,sky,building
+183,A,13558,1,bird,okay so close,palm tree on left corner,trees
+186,A,13757,4,train,that is on left,second from left,left
+189,A,13788,2,Bus,sky,group of people,sky
+192,A,1387,2,left bed,closest to left,water on left,on left
+195,A,1387,6,picture on the wall,wall on right,tree on right,yellow wall on right
+198,A,14269,1,tree right side far right,tree trunk on right,tree on right,tree trunk on far right
+201,A,14607,1,door,table,any part of pic,table
+204,A,14649,3,waterfall,patch of pic,sky top right,top
+207,A,14836,1,left parrot,woman in red shirt,guy in front,red shirt
+210,A,15230,5,Pillar middle,all way on far left,tree on left,far left
+213,A,15298,1,girl,person,sky,person
+216,A,15309,1,seal,anything but bird,building on left,bird
+219,A,15315,4,house,building on right,any of people,building
+222,A,1532,1,bird,top left of picture,trees on left,floor
+225,A,15390,6,plant middle,small palm tree,person on left,palm tree
+228,A,15422,2,right,green tree on right side,tree on right,mountain
+231,A,15429,6,fence,bottom right,bottom right corner,water
+234,A,15482,5,green book lowest right,bottom right corner,bottom right corner,all way to right
+237,A,15533,5,orange book,yellow shirt sitting on right,person on right,yellow shirt
+240,A,15565,10,broken down building in the middle,building on left,sky no clouds,any part of building on left
+243,A,15612,5,upper part,guy on right,tree on right,top right
+246,A,15631,8,boat,man in front right,person on right,right
+249,A,15710,5,left most picture stand,black thing on left,trees on right,black thing on left
+252,A,15722,3,TREES IN THE MIDDLE,okay so any one,sky top left,okay so any one
+255,A,15769,14,papers on right wall above chalkboard,closest to right,tree on left,that is on right of sign
+258,A,15964,5,bird sittin,person in middle,tree on right,big rock
+261,A,16078,4,right paper on desk,girl in front,water on left,girl in white shirt
+264,A,16091,2,chair,hat on right,tree on right,right
+267,A,16106,7,storefront,second from left,trees on right,left
+270,A,16141,1,dog,lady in front,tree on right,right
+273,A,16414,3,water,water to right,water,water
+276,A,16417,7,white car on left,i you can see,people on right,i you can see
+279,A,16530,1,horse,man on right corner,trees on right,man
+282,A,16591,9,bus door between two right brown thingys,brown door on far right,tree on right,window on far right side of picture
+285,A,16592,2,top middle,palm tree on right,top,top right
+288,A,16599,7,redshirt,person in red,person in front,grass
+291,A,16866,2,right car,white car on right,building on right,top right
+294,A,1742,2,left animal,big one closest to left,sky,on left
+297,A,17454,1,left bed,bed closest to left,building on left,on left
+300,A,17606,4,sea above man in boat's head,water on right,bottom right corner,okay so click on right corner
+303,A,17723,3,the horse in front,second from right corner,tree on right,second from right corner
+306,A,1778,2,center cactus,person in middle,bottom right corner,tree trunk
+309,A,17804,1,train,bottom left,palm tree on left,tree
+312,A,1806,10,mountains upper left,sand at top left,trees on left,second from left
+315,A,18085,5,pants,white shirt guy,ground bottom right,man
+318,A,18202,2,the building on the left.,brick wall on left,tree on left,brick wall on left side
+321,A,18225,7,the light post being the blonde lady in red,building on left,water on left,all way to left side of building on table
+324,A,18269,6,left person,guy in background on left,person on left,far left
+327,A,18328,3,left pillar,bottom left side,sky top right,bottom left
+330,A,1836,1,right cactus,very bottom right,tree on right,bottom right
+333,A,18378,4,coffee mug in front of yellow mug,ground in front,bottom left corner,yellow shirt and black thing in front
+336,A,18405,13,middle umbrella,woman in red,person on right,red shirt
+339,A,18414,6,rafter farthest right,guy on right,person on right,guy on right
+342,A,1841,1,bike,right,tree on right,right
+345,A,18503,8,green thiong bottom right,very bottom right,grass on right,all way to right
+348,A,18662,13,bottle in the middle with red label,beer bottle closest to us,person on left,beer bottle closest to you can see
+351,A,18733,9,leftmost board,tree on left,ground bottom right,on left
+354,A,1875,2,center cacti formation,any part of people,tree on right,group of people
+357,A,18770,1,person,man with no people,any part of people,people
+360,A,18837,10,right food container,open book on right,bottom left corner,3rd from right
+363,A,18861,3,paper in person's hand,closest to left,person in middle,closest to you it
+366,A,1900,3,mountain above bikers,mountain on left,water on right,mountain on left
+369,A,19034,9,thermos with plaid design,dark brown bottle,person on left,guy on far right
+372,A,19063,5,train,big building,people on left,building
+375,A,19109,4,hills in background right of the boat,mountain range just to right,water on right,mountain range just to right of image
+378,A,1910,5,water between two kayakers,buildings on left,bottom right corner,big building on left
+381,A,19130,6,right doorway,second from right,tree on right,bottom right
+384,A,19161,7,left animal,okay so two guys,person on left,brown horse
+387,A,19170,2,building,any part of big building,any of building,building
+390,A,1925,13,left pillar,lamp on left,tree on right,on left
+393,A,19278,16,vase,hat on left,tree on left,left
+396,A,19282,4,picture with two vases,second from right of screen,tree on right,second from right side
+399,A,19297,4,right palnt near fountain,person on right,second from left,plant pot on right
+402,A,19298,5,3rd person from left,man in red and black,person on right,man in black shirt
+405,A,19335,5,boat on water,guy in front,guy in front,guy in front
+408,A,19408,2,right bed,all way on right,people on right,looks like
+411,A,19410,2,bed on right,bed closest to right,people on right,closest to right
+414,A,19411,10,with flag,building on top left,guy on right,top left
+417,A,19582,2,water close bottle,guy in front,tree on left,guy in front
+420,A,19597,2,tree trunk in background,tree on left,tree on left,tree trunk on left
+423,A,1960,8,right pot not the hanging one,closest to right,person on right,that is holding up from right
+426,A,19630,2,middle bed,brown thing next to us,person on left,bottom left
+429,A,19633,1,big water,patch of picture,water on right,grassy area
+432,A,19637,2,the bed on the right,i you that looks like,people on right,i you that looks like
+435,A,19655,2,entire building in front,any part of screen anywhere,any of people,any part of screen
+438,A,1965,2,umbrella middle,building on left,person on left,yellow building
+441,A,1974,7,sad leafy tree in back,patch of picture,tree on right,small patch of big tree
+444,A,19773,3,hat,okay so dude,man in middle,hat
+447,A,1977,3,big tree on the right,tree on right,building on right,big palm tree on right
+450,A,19791,1,person on the left,guy in front of people,person on left,guy in red shirt
+453,A,19791,4,middle guy,all way to left,guy in front,yellow shirt
+456,A,19791,7,guy on the right,okay so close to right,person on right,person second from right
+459,A,19821,6,empty vase right of flower vase,man in middle,building on left,all way to you can see
+462,A,19868,1,pot on left,woman on left,second from left,woman on left
+465,A,19970,1,dark table on left,that looks like,tree on left,that looks like it
+468,A,19976,2,bird,click on left,guy in front,left
+471,A,19979,11,right building,tree on right,ground bottom right,top right
+474,A,20090,2,small tree,tree on right,tree on right,palm tree
+477,A,20317,1,center thing over face,big rock wall,building on right,brown patch of image
+480,A,20421,1,right tree,palm tree on right,tree on right,palm tree
+483,A,20421,3,left palm,tree on left,tree on left,palm tree
+486,A,20481,5,horse,horse closest to left,person on right,middle
+489,A,2050,10,man in red sweater,person in red shirt guy,tree on left,person in red shirt
+492,A,20534,2,building,sky,people,sky
+495,A,2059,1,umbrella,tree on right of screen,person in red,tree
+498,A,20689,1,right middle of screen,bottom,green,anything but that is
+501,A,20707,2,water fall,trees in middle of center,any part of people,yellow thing
+504,A,20754,3,green,empty glass that is holding,tree on left,green
+507,A,20984,2,dog,bottom,bottom right corner,bottom
+510,A,21152,1,top,water on top right,any part of picture,water
+513,A,21172,2,hat,hat,man in middle,hat
+516,A,21238,4,shirt,sand bottom right,ground at bottom,bottom
+519,A,21681,1,girl,ground,people,ground
+522,A,21686,1,blue,person,guy in blue,person
+525,A,21918,5,1st brown horse from left,brown thing on left,tree on left,brown thing on left side
+528,A,22147,3,middle horse,black bag on left,tree on left,brown horse
+531,A,22170,10,water between middle and front guy,second from right,person on left,lady in white wall on right
+534,A,22288,12,left bottle rack,window on left,person on right,window on left
+537,A,22304,9,hat,guy on left,second from left,left
+540,A,22325,5,Boat with Flat roof,any part of table,water on right,any part of table
+543,A,22346,1,red figure,guy in middle,guy on left,far right
+546,A,22346,2,white guy,person on left,tree on left,on left
+549,A,22371,2,rightmost chair,closest to right,tree on right,bottom right
+552,A,22371,9,black rectangle on desk,that looks like,trees on left,that looks like it
+555,A,22463,1,animal,trees,water,trees
+558,A,22485,4,top right bed,very top right,person on left,very top right
+561,A,22539,4,horse on right,woman in front,tree on right,woman in front
+564,A,22588,2,black animal,grass to left,person on left,upper left
+567,A,2265,2,nuts,bottom,anywhere,bottom
+570,A,22714,1,man,guy,palm tree on left,sky
+573,A,22732,1,flag,patch of blue,guy in back,top
+576,A,22774,2,stone man in middle,woman with hands his face,building on right,2nd person in middle
+579,A,22835,5,guy 2nd to left,person in middle,person in red,person in red shirt
+582,A,22861,3,left smug looking girl,person on left,guy on left,person standing on left
+585,A,22903,1,boy in front,guy in front,water,guy in front
+588,A,22906,1,water fall middle,sky upper part of water,snow on right,sky upper right
+591,A,22912,1,green mountainside,mountain on right,bottom right corner,bottom right
+594,A,23017,7,horse top of arch,white thing on far right,person on right,click on far right
+597,A,23061,1,animal on ground,palm tree on left,tree on left,tree on left
+600,A,23082,13,sorry about before - plant on porch outside,tree on right,wall on left,small patch of picture on far right corner
+603,A,23147,2,left window,tree on left of pic,tree on left,lower left
+606,A,23297,9,person in yellow on the right,person on left,tree on right,person in red shirt on left
+609,A,23349,13,he is laughing,man on left,tree on right,man on left
+612,A,23352,8,van left,people on left,person on left,white wall
+615,A,23386,5,American flag,lamp post on left,sky top right,top left
+618,A,23639,3,red person right,group of people,person on right,group of people
+621,A,23932,5,tall right cactus,rock on right,tree on right,rock on right
+624,A,23964,5,rightside of mountain,grassy area on right,trees on right,trees on right
+627,A,24028,3,center waterfall,all way to left,tree on left,left corner
+630,A,24199,2,van,green,man on right,right
+633,A,2434,1,building,sky,building,sky
+636,A,24413,1,boat,water,building,water
+639,A,24662,2,her sweater,that is holding,any part of pic,that is
+642,A,2516,8,second story deck,top of people,people on right,top of people
+645,A,25249,1,statues in the middle,person in middle,tree on right,any person in middle
+648,A,25286,3,2nd white glass from left,that is holding,second from left,white thing that is holding
+651,A,25648,1,bird,guy,tree on left,guy
+654,A,25920,1,building,big building,any part of people,building
+657,A,25950,1,flag,red,guy in blue shirt,red
+660,A,25,5,right tree,person on right,sky top right,on right
+663,A,2608,2,tower left,tall building on left,very bottom left,far left
+666,A,26238,7,palm tree over man in white t,tree on left,tree on left,tree on far left side of pic
+669,A,2623,4,pole closest,lamp post second from left,top left corner,on left
+672,A,26269,3,tree,tree leaves at top,any part of people,tree
+675,A,26299,2,hat,girl,trees on right,girl
+678,A,26524,1,A restaurant,palm tree,any part of people,palm tree
+681,A,26527,9,the pic above the word KYOTO,okay so like,window on left,okay so like this in middle
+684,A,26588,13,sign on blue shelf at back,white wall on far right,person on right,group of picture on far right
+687,A,26589,10,door,closest to you can see,tree on right,window
+690,A,2662,3,boat with red bottom top left,water to left,person on left,water on far left of picture
+693,A,26723,4,most right chair,2nd from right,tree on right,2nd from right
+696,A,26733,3,tree on the right,big tree on right,tree on right,tree on right corner
+699,A,2677,2,brown part of door,green thing on left,tree on right,green thing on left
+702,A,27053,14,seals in back,sand on far right,tree on right,sand on right
+705,A,27216,5,plant on the right,click on right,person on left,red jacket on right
+708,A,27224,5,gren asbove sign,trees on left,ground bottom left,trees on left
+711,A,27256,4,right bottom corner,bottom right of picture,tree on right,bottom right corner
+714,A,27330,3,houses on far right,rocks on right,tree on left,yellow house on right
+717,A,27330,4,building on left,yellow thing on left side,person on right,rocks on left
+720,A,27331,1,fruits,people,people,people
+723,A,27343,4,corner,bottom left side,bottom left corner,bottom
+726,A,27370,8,car left,2nd from left,person on left,bottom left
+729,A,27405,7,planter top right below window,bush on right,trees on right,top right side of screen
+732,A,27459,2,hill,trees on right corner,trees,trees
+735,A,27465,2,left most mountain,rock on left,tree on left,rock on left
+738,A,27520,3,plant third closest on top,green bush on right,person on left,green bush on right side
+741,A,2833,7,building on right,white building on right side,man on right,building on right
+744,A,2859,7,flag right,white thing on right,person on right,top right
+747,A,2867,3,lower level warerfall on the left,palm tree on far left,sky top right,palm tree trunk on far left
+750,A,2872,2,far left waterfall,man on left,tree on left,man on left
+753,A,2882,2,flowers in the middle top,group of picture,guy in blue,people are standing in center
+756,A,2957,4,right botom corner,water,person on right,water to right
+759,A,2992,1,cactus,top left,any person in front,rocks
+762,A,30064,2,road just to left of bike,bottom right corner,ground at bottom left corner,red thing on bottom right corner
+765,A,30156,3,white car,black bag next to right,window on right,white car
+768,A,3028,2,hut,trees,palm tree on right,trees
+771,A,30328,1,lake,water on right,water on right,water
+774,A,3046,4,tree second from right,palm tree on right,tree on right,palm tree on right
+777,A,30486,2,balloon on far right,sky only,woman in red,any part of sky
+780,A,30775,1,koala,water to us on left,tree on left,water
+783,A,30777,1,koala,left,any part of building,left
+786,A,30778,4,koala,girl in middle with hat,tree on right,face
+789,A,31008,2,sandcastle,water,any part of people,water
+792,A,3100,3,leaf above fruit,top right corner,grass on right,top right corner
+795,A,3102,6,bird left,man on left,trees on left,left corner
+798,A,3103,2,bird,man on left,tree on left,left
+801,A,31066,1,red car,yellow car,guy in front,yellow car
+804,A,31093,4,middle building,okay so like,tree on right,tall building
+807,A,3117,2,bird,guy in front,tree on right,green
+810,A,31262,4,picnic table,table next to us,trees on left,that is
+813,A,3152,7,scoreboard,white thing on left,person on right,left
+816,A,31554,2,bike,that is,person on left,bike
+819,A,31583,3,palm tree on the right,palm tree trunk on right,tree on right,palm tree trunk on right
+822,A,31875,2,blue bottom,ground at bottom right,bottom right corner,bottom right
+825,A,32036,3,middle chandlier,rocks at top,second from left,top left
+828,A,32061,2,building on left,white building on left,building on left,building on left
+831,A,32135,5,thin strip of water middle,grass to right,ground at bottom,grass area next to right
+834,A,32159,1,surfboard,wall on left,man on left,left
+837,A,32248,4,the flag in the middle,all way to last one,person in back,all way to last one
+840,A,3238,4,duran above boy,tree on left,grass on right,tree on left
+843,A,3238,5,yellow melons top right (those were cocoa beans lol),wall on right,grass on right,brick wall on right of three guys hand side
+846,A,32454,3,treeline,trees,trees on right,sky
+849,A,32670,3,tree trunk far right,tree trunk on right,tree on right,tree on right corner
+852,A,32825,4,first umbrella,sky at top,tree on left,sky top
+855,A,32825,5,the last umbrella top,i it is on right,tree on right,sky top right corner
+858,A,33370,5,Bush on far left,tree on left,person on left,tree on left corner
+861,A,3337,4,the green boat with the blue bottom closer to us,2nd from right,mountain in middle,brown thing next to you that is on right corner
+864,A,3409,2,stutues,sky,people,sky
+867,A,35623,2,right child in hat,guy in black shirt,ground bottom right,guy in black shirt
+870,A,35641,1,umbrella,sky upper left,building on left,left
+873,A,35659,2,hill with doors in it,building,any part of picture,okay so door on right
+876,A,35728,2,right boat,closest to right,trees on right,on right
+879,A,35748,2,bottom left corner,trees on left,palm tree on left,trees on left
+882,A,35804,1,The tree on the left.,tree on left,tree on left,tree on left of picture
+885,A,35857,1,right corner design,blue wall,okay so any person,wall on right
+888,A,35878,1,tower,road,man in front,road
+891,A,3619,8,white llama in front,mountain on left side,tree on left,mountain on left side
+894,A,3690,8,closest bike,people on far left side,guy in front,bottom left
+897,A,37089,1,statue,face,man on right,face
+900,A,37091,5,middle building,tallest building on right,building on right,tallest building
+903,A,37098,3,top car above guy in car,okay so two guys head,trees on left,okay so two guys head down
+906,A,37145,3,building,building,any part of building,building
+909,A,37192,1,biggest building,sorry that has spiders,building on left,tallest building
+912,A,37203,1,bus,white on right,building on right,right
+915,A,37256,5,train far right,building on right,trees on right,building on right
+918,A,37438,1,water,grass at very bottom right,water at bottom,water
+921,A,37441,1,water,water bottom right,water at bottom,water
+924,A,37557,1,car,road,trees,road
+927,A,37610,4,rock formation on the back but only left side,big rock on left,sky top left,2nd from left side of big rock on top
+930,A,37781,2,guy left,third person on left,person on left,on left
+933,A,3781,2,top part of mountain,trees on right,any part of picture,green trees on right
+936,A,37846,3,tall phallic tomb,lamp post up,tree on right,lamp post up
+939,A,37846,5,front left gravestone,bottom left side of picture,bottom left corner,bottom left side
+942,A,37863,1,chair left,white shirt,water on left corner,white shirt
+945,A,37923,3,charles,any part of building,ground bottom left,building
+948,A,38167,1,right buildin lota windos,tall building on right,building on right,tall building on right
+951,A,3821,2,train,sky,group of people,sky
+954,A,3838,11,papyas on top right,top right hand side,grass on left,top right of pic
+957,A,3843,6,kid hat,man on right,second from right,far right
+960,A,38776,5,girl in blue and pink center right,blue shirt guy on right,tree on left,person in blue shirt guy on right
+963,A,39017,3,left ostrich,closest to left,tree on left,bottom left
+966,A,39117,1,tree left of sign,that looks like you,tree on left,that looks like you
+969,A,39140,1,waterfall,green bush on left,tree trunk on left,water
+972,A,39229,4,white tree branch,tree on left,man in front,tree on left
+975,A,39503,1,click center,tree on left,tree on left,brick wall
+978,A,39589,1,pond,water on right,water at bottom,water
+981,A,39617,1,anywhere on the buss,road,people,any part of pic
+984,A,39625,1,building,in middle,any of people,trees
+987,A,39679,4,qhite taxi,2nd from left of red,people on left,red car
+990,A,39694,4,red flag,red thing on right,wall on right,far right
+993,A,39806,1,water in front,blue part of water,water on left,water to us
+996,A,39860,1,bird,patch of picture,tree on right,water
+999,A,40013,1,road,ground bottom right,ground bottom left,bottom
+1002,A,40086,3,mountains on the back left,mountain range in middle,trees on left,mountain range just to left
+1005,A,4011,2,tilted boat,man in front,tree on left,in front
+1008,A,40188,1,bear,two guys head,tree on right,green
+1011,A,40190,1,animal,top of pic,tree on right,top
+1014,A,40193,2,animal on ground,rock on right,tree on right,rock on right
+1017,A,40194,1,animal,big rock wall,trees on right,top
+1020,A,40195,2,furry thing,top left side of pic,tree on right,top left
+1023,A,4022,1,bird,right,people,right
+1026,A,40316,2,building not steps,building,people,any of building
+1029,A,40416,1,building inmiddle,building on bottom,tree on right,bottom left
+1032,A,40430,4,boat to the right of the big boat,boat closest to right,tree on right,boat closest to right of lady in center
+1035,A,40500,3,tree bottom left,tree on left,bottom left corner,tree on left
+1038,A,40547,1,flag,person on left,person on left,left
+1041,A,40600,1,2003 horse,guy,trees on left,in front
+1044,A,40653,1,large animal,in front of pic,tree on left,left corner
+1047,A,40682,3,bird,big tree on left,tree on left,blue
+1050,A,4092,3,ferry,that is,any part of people,building
+1053,A,4106,9,pink lady,all way in front,person in red,in front
+1056,A,4121,8,kid in the grey sweater on the right,man in front,any of people,man in front on right next to us
+1059,A,4123,4,middle boy in blue,person in middle,sky top left,person in blue shirt
+1062,A,4220,4,bottom center,ground bottom right,ground at bottom,bottom right
+1065,A,4227,2,oval shaped cactus pplant on the right,very top right,tree on right,rocks at very top right of people
+1068,A,4255,4,white shirt,man in front,person on left,white shirt
+1071,A,4257,9,Giant red thing,water at top right corner,grass on right,guy in middle
+1074,A,4262,6,middle lady's sweater,yellow shirt guy in middle,man on left,man in middle
+1077,A,4272,1,right tree,tree on right,tree on right,bottom right
+1080,A,4491,2,fence,bottom of pic,ground bottom left,bottom
+1083,A,4561,3,seal in the front of the picture,man on left,man in middle,man in front of picture on left
+1086,A,4570,1,teeth,rocks,building,rocks
+1089,A,4595,10,you had it correct!! the greed white and red flag on the RIGHT,red bag on right corner,guy in front,whatever is holding bag on bottom right corner of red and to us
+1092,A,4638,19,stone ledge bottom left,bottom left corner,person on left,bottom left of pic
+1095,A,4640,1,pink bed,ground at very bottom left,ground bottom left,ground bottom
+1098,A,4640,6,bed on upper right,all way right,tree on right,all way to right
+1101,A,4697,4,boy all the way on left,blue shirt guy in middle,guy on left,guy in blue hat on left
+1104,A,4785,6,lamp,red shirt,tree on right,wall
+1107,A,4841,1,flower far left,bush on left,guy in front,bush on left
+1110,A,4852,1,flower,road,tree next to right,road
+1113,A,4872,8,green food,2nd from right,man on right,on right
+1116,A,4875,3,upper rightmost leaf,top right corner,tree on right,top right corner
+1119,A,4883,3,yellow fruit behind top piece of yellow fruit,yellow jacket lady in front,grass on right,lady in front of big leaf top right
+1122,A,4900,1,bed,girl on bottom right,people,right
+1125,A,4920,1,circle sign,guy in middle,people on left,yellow sign
+1128,A,4951,5,llama far back,second from right,second from right,second from right
+1131,A,4956,4,mountain ontop the lake,mountain range in background,mountain in middle,mountain range in background
+1134,A,4973,2,middle bird facing down,closest to left,person on left,bush next to left
+1137,A,5033,3,roof thingy,top left,tree on right,top left
+1140,A,5153,2,bird,top left,building on left,left
+1143,A,5201,2,bus,brick wall on right,people on right,people
+1146,A,57,3,very left trees,palm tree on left,tree on left,tree on left
+1149,A,6215,5,very top bundle,grass next to right,grass on right,top right corner
+1152,A,6252,3,dog,closest to left,grass on right,left
+1155,A,6268,1,whatever that is lol,face,building,face only on right
+1158,A,6349,3,right plate,brown thing on far right,chair on right,bottom right
+1161,A,6356,2,buliding,white building,people,building
+1164,A,6357,3,huge boat,sky top of pic,sky top left,sky top
+1167,A,6412,2,right lady,white thing on right,tree on right,far right
+1170,A,6493,5,farthest board to the right,closest to us,tree on right,empty seat closest to us
+1173,A,6666,1,water,water on left corner,water on left,water
+1176,A,6889,3,water,sky,sky,sky
+1179,A,7002,7,tomato left left side one,second from left,second from left,person in front of pic
+1182,A,7013,2,Only animal.,second from left,person on left,bottom left
+1185,A,7023,6,yellow sign with red words on bus,2nd from right corner,bottom right corner,2nd from right next to last one
+1188,A,7062,5,coke bottle left,tree on left,water on right,closest to us
+1191,A,7063,4,hay in front,man in front,ground bottom right,man in front
+1194,A,7065,7,girls outfit,woman wearing red,person in front,little girl
+1197,A,7067,5,left building,bottom left,person on left,bottom left
+1200,A,7094,5,ketchup,water on right,person on right,water
+1203,A,7139,6,center animal,person in front,second from left,on left
+1206,A,7154,4,paper on top of control,woman in back,snow on left,white part of blue shirt
+1209,A,7158,6,llama looking right in the middle,click on left,water on right,furthest away facing us on left
+1212,A,719,6,boy bottom left,man on left,man on left,man on left
+1215,A,7235,3,tent in front of the building in middle,tallest palm tree on right,person on right,palm tree on right of house in middle
+1218,A,726,11,girl on far left in front,person in front,person on left,person in black bag on left
+1221,A,7366,4,window on left,building on left,trees on left,building on left
+1224,A,7406,2,left child,all way to left,tree on left,on left
+1227,A,7409,2,columns,big building,sky,building
+1230,A,7442,5,island on the left,left of picture,water on left,water to left corner
+1233,A,7452,1,anywhere,any part of picture,people,anywhere
+1236,A,7475,1,middle water fall,tree on left,man on right,tree on left
+1239,A,7479,4,water bvottle,person in front,water on left,blue shirt
+1242,A,7504,10,haha! onion/leaks in back,top left corner,person on left,top left of pic
+1245,A,7504,4,purple fruits,2nd from right side,man in front,on right
+1248,A,7505,9,any of the plates on the table,man on right,bottom left corner,man in red jacket and orange shirt
+1251,A,7519,9,right bike,guy in front,guy in front,bike wheel
+1254,A,7552,5,dude in blue,blue shirt guy in middle,person on left,person in middle
+1257,A,7654,3,bird,sky clouds,tree on left,sky
+1260,A,7676,5,right lamp post,lamp post on right,sky top right,2nd from right
+1263,A,767,9,balloons,girl on right,second from right,right
+1266,A,7684,9,ass of animal in middle,person in back facing away,people on right,person in back facing camera
+1269,A,7708,4,girls face,man in middle,man on left,white shirt
+1272,A,7747,10,hat far left,person on left,person on right,person on left
+1275,A,7748,2,building,building sorry that is sitting,people,building
+1278,A,7796,1,LLLAAAAAAMAAAAAAAA,closest to us,tree on right,animal
+1281,A,7920,3,that last picture tho... the sticks on the ground on left,rock wall on left corner,tree on left,rock wall on left side of building in background mountain range
+1284,A,7983,4,paper in front of girlon bottom left,closest to left,person on right,white shirt on left side of picture
+1287,A,7983,9,book middle one,second from left of picture,person on left,second from left
+1290,A,8009,4,building,white part of big building,top left corner,building
+1293,A,8076,5,lower left balloon,kid in front,trees on left,kid in front
+1296,A,8103,3,the statue but not the people,,water,
+1299,A,8172,12,red guy left sitting,red shirt guy on left,guy in front,guy in red shirt
+1302,A,8200,1,glass,man in front of woman,person on right,man
+1305,A,8211,2,lady in checkered shirt,blue shirt guy in front,guy in middle,guy in red shirt
+1308,A,8280,5,2nd from right cup in front,boy in front,second from left,empty glass in front of screen
+1311,A,8336,4,white pillar left,white thing on left,person on left,second from left
+1314,A,8356,2,bikes on top,patch of people on left,sky top right,people on left
+1317,A,8368,3,rightmost guy,second from right in middle,rocks on left,on right
+1320,A,8374,2,left hill,grassy area on left corner,trees on left,top left
+1323,A,8376,1,bike on left,second from left of picture,person on left,second from left
+1326,A,8376,2,right bike,man in front,person on right,in front
+1329,A,8421,10,brown pillow on left chair,guy on left,grass on left,red shirt guy on left
+1332,A,8442,6,half of person left,person on left,person on right,person on far left
+1335,A,8473,8,the candle at very bottom right,closest to right,person on right,that is holding bag on right
+1338,A,8545,4,big gated window on right of white section,window on right,guy on right,window on far away from right in middle
+1341,A,8555,2,mountain,trees on right,trees on right corner,mountain
+1344,A,855,4,white board,white wall on right,sky top right,top right
+1347,A,8576,9,book next to pink shirt,closest to right,person on right,whatever is sitting on right
+1350,A,8587,9,hat right,2nd from right of people,person on right,top right
+1353,A,8597,4,left most building,far left,person on left,lamp on left
+1356,A,8651,5,pot on baclony far right,closest to right,tree on right,all way to far right
+1359,A,8716,7,jug right,beer bottle on right,bottom left corner,on right
+1362,A,8751,5,that was it.... plate woman is holding right side blue jacket,whatever is holding up front,bottom right corner,white thing in front of man is holding up top right
+1365,A,8758,12,plate in front of bald man front left,all way to left,sky top left,okay so like very bottom left of pic
+1368,A,8835,19,front left white paper near yellow book,very bottom left,sky top right,bottom left or whatever that is holding
+1371,A,8866,2,mountain,mountain range,water,mountain
+1374,A,8875,6,board under guys feet sitting down,3rd from right,person on right,all way in front of people
+1377,A,8940,3,seal on the left,girl in background on left,person on left,little girl on left
+1380,A,8962,5,buildings on the right,building on right,building on right,click anywhere on right
+1383,A,8973,9,rightmost circular empty chair,okay so like,person on left,okay so like it
+1386,A,9097,5,ground on left,bottom left,ground bottom left,ground bottom left
+1389,A,9118,9,ground on the very bottom right corner,ground bottom left,bottom right corner,ground at bottom left side of picture
+1392,A,9132,10,fruit in scale,woman in back to left,tree on left,second from left
+1395,A,9169,7,lady on the left,person on left,person on left,all way to left
+1398,A,9193,5,plate in front of woman,click it is on right,tree on left,click it is on right
+1401,A,9216,3,rock below middle guy in blue,person in front,bottom left corner,person in front of her head
+1404,A,9230,3,window she is looking out of,blue shirt,group of people,okay so like it is holding
+1407,A,9320,3,table,empty chair,people,ground
+1410,A,9336,2,left girl,person in back,tree on right,blue shirt
+1413,A,9342,1,bird,man on left,tree on left,man
+1416,A,9347,7,bottom orangish vase,second from left,any of pic,bottom left corner
+1419,A,9350,4,train,window,sky,window
+1422,A,9359,3,sign,second from left corner,group of people,green
+1425,A,9387,12,hanging pictures on right top side,building on right corner,tree on left,top right next to left corner
+1428,A,9394,8,light over right shoulder,lamp on left,person on left,lamp post on left
+1431,A,9403,1,his drink,closest to left,person on left,green hat
+1434,A,9410,2,ground,ground where there are,ground bottom right,ground
+1437,A,9415,12,door way up stairs,building on left,tree on right,building on left side
+1440,A,9418,3,fence on top,top right of picture,trees on right,okay so like
+1443,A,9426,4,dopey green hat,person in front,person on left,person in front
+1446,A,9493,3,sign top left,very top left,very top left,very top left
+1449,A,9507,3,child,guy in front of people,person on right,people
+1452,A,9517,10,chair under plaid shirt guy,chair closest to left,sky top left,empty chair closest to left
+1455,A,9536,3,train,very bottom,grass on right,bottom
+1458,A,9540,7,left closest bottle,beer bottle closest to us,guy in front,first beer bottle
+1461,A,9672,4,lamp post on right,2nd from right,person on left,lamp post on right
+1464,A,9683,7,middle surf board,girl in front of screen,second from left,girl in front
+1467,A,9730,4,car,white car on far right,tree on right,right
+1470,A,9741,4,bird on right,2nd from girls head,man on right,2nd from right
+1473,A,9754,10,third bingo board from right on grey knee,second from right,window on left,second from right side of guy in middle
+1476,A,9850,3,the dog,white shirt guy in front,person on left,white shirt
+1479,A,9881,8,horse walkig out of the water,man in middle,second from left,man in back row of pic
+1482,A,9890,7,plate center guy is holding,that is holding,second from left,that is holding long hair
+1485,A,9896,9,chair in background on right,2nd from right,second from left,man on far right side
+1488,A,9898,20,flower middle,kid in middle,tree on right,in middle
+1491,A,9901,1,bird,sky,tree on left,sky
+1494,A,9932,2,top left montan,sky no clouds top right,tree on right,sky top right
+1497,A,9996,7,bus in middle,closest to right,ground bottom left,closest to right
+0,B,10070,3,sky,sky,sky,sky
+3,B,10072,2,the water on the left,water to left,sky top left,water to left of picture
+6,B,1009,3,boys shorts,ground bottom right,ground bottom left,bottom right
+9,B,1011,3,face,face,building on right,face
+12,B,10363,5,tree cluster on right,tall palm tree on right,tree on right,palm tree on right
+15,B,10363,6,sky,tall palm trees in middle,sky top left,sky
+18,B,1049,3,building,sky,people,sky
+21,B,1056,7,MIDDLE FLAG,tree on right,person in red,lamp post
+24,B,10589,2,left clouds,top left corner,sky top left,top left
+27,B,10600,2,angry woman in red,woman in red shirt,guy in red,woman in red shirt
+30,B,10653,1,iguana,top left corner,green grass on right,grass
+33,B,10674,1,of frame,ground bottom right,sky,bottom right
+36,B,10721,5,left guy,red shirt guy in front,person on left,red shirt
+39,B,10725,1,bird,man in blue on left,man on left,man
+42,B,10739,2,people,people,people,people
+45,B,10775,3,rocck below man,big tree trunk,bottom right corner,grass on right
+48,B,10880,4,wall om right,tree on right side,brick wall on right,tree on right
+51,B,1088,1,blue bed left,blue part of picture,water on left,click on left
+54,B,10992,2,white shirt,man in blue shirt guy,person on right,blue shirt
+57,B,11060,4,hills have eyes,sand next to left,trees on right,sand in back
+60,B,11089,3,boat*,closest to left,tree on left,left
+63,B,11091,1,top sky,sky top right,sky,blue sky
+66,B,11160,3,face of girl with ponytail closest to camera,second from right,person on right,that is holding up front of her head
+69,B,11160,6,guys head on left,second from left,person on left,second from left corner
+72,B,1117,8,anywhere in middle,any of pic,tree on right,any of pic
+75,B,1118,7,blue curtain behind right bed middle,window on right,tree on right,window on far right of screen
+78,B,11207,6,BLACK SHIRT,man in back,person on left,blue shirt
+81,B,11221,3,far left man,guy in red shirt,person on left,guy on left
+84,B,11227,3,far left guy,person on far left side,tree on left,2nd from left
+87,B,11231,5,mtg? woman in center with glasses and black zip up,man in front,person on left,man in red and black shirt guy on far left
+90,B,11254,1,white space above heads,sky,sky,sky upper left corner
+93,B,11293,6,ceiling,top right,sky top right,top
+96,B,11383,12,the bench thing in the lower right hand corner,very bottom right,window on right,all way to right or whatever is on bottom
+99,B,11408,3,mountain,any of photo,ground at bottom,mountains
+102,B,11408,7,bottom right corner,guy on right,bottom right corner,guy on right
+105,B,11413,8,hat on right up front,man on right,water on right,man on right of table
+108,B,11415,5,tree left,clock tower,trees on left,clock tower
+111,B,11553,6,desk kids are leannig on,anything but his back wall,second from right,anything but his back wall
+114,B,1155,2,floor below bed,ground,water at bottom right,brick wall bed
+117,B,11573,9,white thing on wooden chair,bottom left side,any of people,bottom left side of pic
+120,B,11575,10,white shirt man,guy in blue shirt,tree on left,person on right
+123,B,11678,4,building left side right of left tree,building on left,person on right,white building on left side of picture
+126,B,1172,5,The floor,rock that is,ground bottom left,bottom right
+129,B,11737,5,food in front left with the spoon in it,ground bottom left,building on right,ground at bottom left bed closest to his face
+132,B,11750,3,trees in the background,any part of sky,trees on left,any part of sky
+135,B,11834,1,very bottom middle,grass,grass bottom left,grass in front
+138,B,11897,1,bird,man in middle,person on right,man
+141,B,12142,1,man,red shirt guy,man in middle,guy
+144,B,12236,2,mountain,sand at bottom right,people,bottom
+147,B,1227,5,lamp closest to the window,wall on right side,tree on right,blue jacket lady on wall
+150,B,12484,6,sky,sky top right corner,sky top left,sky
+153,B,12497,1,people,group of people on left,people on right,people
+156,B,12600,10,top leftcorner,window on left,tree on left,top left
+159,B,12705,4,house above the white car,building on far right,people on right,big building on far right
+162,B,12732,4,bottles on top of shelf where man is resting his elbow,all way on far right,person on right,all way to far right of picture on table in middle
+165,B,12774,3,middle picture,second from right,tree on right,top right
+168,B,12832,6,grass right,water to right,bottom left corner,far right
+171,B,12850,1,the man in the front center,guy in blue on left,tree on left,guy in middle person on left
+174,B,12865,2,The entire group of people,whole group of people,people,person in front of people
+177,B,12919,2,righ guy,person all way to right,tree on right,far right
+180,B,12956,6,desktop left,bottom left corner,any of people,bottom left
+183,B,13188,1,ANY OF THE PEOPLE,group of people on left,people,any part of people
+186,B,13291,4,trees in background,palm tree top,any part of people,top left corner
+189,B,13331,1,sky,sky top right of pic,sky top right,sky
+192,B,13331,2,foreground sand,sand at very bottom,ground bottom left,bottom right
+195,B,1333,1,The sidewalk.,dirt at bottom,ground at bottom,bottom right
+198,B,13430,2,artifacts to the left of the man in the hat,dirt next to left,building on left,dark area next to you click on left of pic
+201,B,13520,1,people,okay so any person,people,people
+204,B,13584,1,boat,water,any part of people,water
+207,B,13674,2,the lady,blue shirt guy,person on right,blue shirt
+210,B,14115,4,the group of rocks at the bottom right,grass bottom right,ground bottom right,small patch of grass on bottom right corner
+213,B,14123,3,chunks of land reaching into sea,grassy area on left,man in middle,grassy area next to left corner
+216,B,14139,1,ceiling light,mountain range to left,top left corner,top left
+219,B,14157,3,water bottle,second from left,tree on left,water bottle
+222,B,14471,1,leaves out of bottom,very bottom left,grass at bottom,bottom left of pic
+225,B,14657,1,man looking down,yellow shirt guy,person on right,yellow shirt guy
+228,B,14708,1,face,face,people,face
+231,B,14757,1,bottom left,bottom right of pic,bottom,bottom right
+234,B,14764,2,STEPS,bottom of picture on right,ground bottom right,bottom
+237,B,14817,1,middle bird,second from left,person on right,far left
+240,B,15194,2,wooden floor,all way to left corner,bottom left corner,bottom left
+243,B,15366,6,man at top right,guy on right,tree on right,guy on far right
+246,B,15405,1,any fish,bottom right corner,water,bottom right
+249,B,15422,4,rocker below woman in middle,bottom left side,ground bottom left,bottom left side of pic
+252,B,15540,10,the truck,white thing on far left,building on right,white car
+255,B,15651,6,group of people nearest bottom right,people on right,okay so like,any person in front of people
+258,B,15658,2,green,green trees in middle,grass on left,trees
+261,B,15679,2,the clouds,sky at top right,tree on right,white sky
+264,B,15867,2,people,any person in middle,person on left,people
+267,B,15966,5,small plant above cactus,bush on left,tree on left,green bush on left
+270,B,16043,4,top window on left,second from left,water on right,top left of picture
+273,B,16130,2,yellow foliage bottom,grass bottom left corner,grass at bottom left,bottom left corner
+276,B,16359,2,animal,little girl in back,building on right,girl
+279,B,16368,2,monkey,top left corner,tree on right,top
+282,B,16379,2,flowers in the corner,bottom left corner,water on left,rocks bottom left corner
+285,B,16424,1,sky,any part of sky,sky,sky
+288,B,16523,7,pictures above piano,wall on right,building on right,top right corner
+291,B,16559,1,man on left,person on left,tree on left,person on left
+294,B,16576,4,seal next to the otherseal in the bottom right corner,very bottom right,bottom right side,very bottom right of man in front tire facing us
+297,B,16762,8,chair against the window blinds,all way left,water on left,chair all way to left
+300,B,16838,1,horse in front,ground bottom,bottom right corner,ground in front
+303,B,16988,1,trees bottom right,big palm tree,wall,bottom right corner
+306,B,17105,2,front tree,tree on right,tree on right,palm tree
+309,B,1714,8,bottom flock of birts,ground at bottom,person on right,ground at very bottom
+312,B,1735,12,land between two cactus on right above water,tree on right,ground bottom right,small patch of tree on far right side
+315,B,17395,2,window,next to left,sky top left,sky
+318,B,17426,6,left person,guy on left,person on left,on left
+321,B,1755,3,trees,big tree on far left,trees on left,tree
+324,B,17564,2,sky top left,sky,sky,sky top left
+327,B,17590,1,waterfall center,palm tree trunk,tree on left,palm tree
+330,B,17625,4,front,grass at bottom right corner,ground at bottom,bottom
+333,B,1765,5,mountain with road,mountain range,trees on right,mountains in middle
+336,B,17669,3,yellow building,yellow building,sky,yellow building
+339,B,17774,1,water,grass at bottom right,grass at bottom,water
+342,B,17794,1,sky,sky,sky,sky
+345,B,17803,1,Large pond,water on left corner,water on left,upper left
+348,B,17909,3,under people,ground bottom right,any part of pic,ground bottom
+351,B,17929,4,any of the 4 people on the right,group of people on right,people on right,group of people in blue jacket on right
+354,B,18205,6,mountains,green trees on right,trees at very bottom right,trees
+357,B,1820,5,sky,sky,sky,sky
+360,B,18225,10,bottom right grass patch,second from right,second from left,that is on right
+363,B,18360,8,very very top left corner,building on left,person on left,all way on far left
+366,B,18458,1,sky light?,sky top left of picture,trees on left,top left
+369,B,18514,2,That dude in the middle,guy in black jacket,person on left,man in black jacket guy
+372,B,18647,2,mountain in distance behind plane,very top right of picture,very top right,very top right of picture
+375,B,1867,2,cactus on the far left,second from left,sky top right,brown bottle on far left
+378,B,18752,1,person,man,building,man
+381,B,18811,2,kid,all way in front,guy in blue,person
+384,B,18823,2,rock she is sitting on,ground bottom right,bottom right corner,okay so click bottom right
+387,B,18836,5,dude all alone on the right,2nd from right,building on right,man in black thing on right
+390,B,18943,1,grass lolz,trees on right corner,grass next to right,bottom right
+393,B,19012,6,upper left window,second window on left,water on left,window on left
+396,B,19116,1,grass,green,any part of people,bottom
+399,B,19170,4,silver car,red car in front,ground bottom right,red car
+402,B,19335,6,house in middle,trees on left of building,tree on right,trees on left
+405,B,1936,6,The roof tiles visible at the top of the photo,sky top left,second from left,blue sky top left of picture where there are sitting
+408,B,19405,2,rooster man,ground in middle,guy in middle,mans head
+411,B,19408,2,bed on right,all way on right,people on right,you can see
+414,B,19527,12,guy on left,man in front left,palm tree trunk,man in front
+417,B,19527,4,table middle,man in front,person on left,bottom right
+420,B,19579,1,plants - anywhere,,water,
+423,B,19596,4,plant by the stairs,bottom left corner,water on right,all way to left
+426,B,19598,9,ceiling,very top right,window on left,sky
+429,B,19639,5,nightstand,brick wall on left corner,tree on left,window
+432,B,19642,7,left lamp,guy on left,tree on left,on left
+435,B,19649,4,very left window,lamp post on left,window on left,2nd from left
+438,B,1965,14,plant above heads man yellow jacket,tree on left,wall on left,small patch of picture on left
+441,B,19661,1,sky,sky top right,sky,sky
+444,B,19680,3,monkey,tree on right,tree on right,tree
+447,B,19853,8,black pants,closest to us,very bottom left,bottom right
+450,B,19877,3,bag in front of boy,man on left,man on left,man sitting on left corner
+453,B,20113,7,yellow chair,that is sitting on right,grass on right,on right
+456,B,20162,2,tree,patch of screen,tree trunk on right,green
+459,B,20304,4,tree top left,tree on left,trees on left,tree on left
+462,B,20310,1,sand bottom left,sand at bottom right corner,sky,bottom right corner
+465,B,20383,5,lamp,white car on left,person on left,bed
+468,B,20636,2,sky,sky,sky,sky
+471,B,20730,2,empty seat right,guy on right,man on right,guy on right
+474,B,20753,2,drink most right,second from right,person on right,second from right
+477,B,20754,4,brown drink,empty glass next to us,tree on right,empty glass
+480,B,20802,4,flat cliff,dark brown wall on left,man on left,on left
+483,B,20826,5,right hand guy purple,red shirt guy on right,person on right,guy in red shirt
+486,B,20966,3,the pier,building on left,bottom left corner,bottom left
+489,B,21066,3,girls face,lady on left,man on left,top left
+492,B,21152,1,water,water on top right,any part of picture,water
+495,B,21516,5,right bottom,bottom right of pic,wall on right,bottom right
+498,B,21685,3,windows,top right side of picture,sky top right,top
+501,B,2170,4,Valley and mountains,bottom left corner,water,bottom left corner
+504,B,21792,1,the human being,ground,people,girl in front
+507,B,21867,2,boat,okay so like you,any of people,yellow
+510,B,22010,4,the floor,very bottom right,ground at bottom,bottom right
+513,B,22064,2,the mountain,mountain in background hills,any part of mountain,top right
+516,B,22168,10,bike right,second from right,person on left,bottom right
+519,B,22282,3,sky center,sky at very top,sky,sky top
+522,B,22312,7,blue and white plaid shirt,guy in middle,person on right,man in red shirt guy
+525,B,22331,1,clouds in upper sky,sky,sky,any part of picture
+528,B,22369,11,ROOF 2ND TO LEFT,palm tree trunk on left,guy in middle,palm tree on left
+531,B,22403,5,top books,building on right,bottom right corner,top right
+534,B,22462,7,trees right side,top right of picture,second from left,second from right
+537,B,22579,5,right corner of picture,top right corner,wall on right,top right of picture
+540,B,22649,5,rock they are sitting on,ground bottom left,ground bottom left,that is sitting on left
+543,B,22706,5,rightmost bike,bike wheel from right side,person on right,lower right
+546,B,22886,1,girl left,person in red shirt,person on left,red shirt
+549,B,23137,10,guy in tan polo at very back,second from left,person on right,man in front of guy on left
+552,B,23173,4,dancing person,person on right,guy on right,white shirt
+555,B,23186,3,yellow guys chair,chair on left,person on left,bottom left corner
+558,B,23186,4,guy in yellow shirt,people on left,person on right,guy in red shirt
+561,B,2324,1,llama,ground bottom,tree on right,bottom
+564,B,23250,5,person on right,white shirt guy on right,sky top left,man on right
+567,B,23270,10,left building,trees on left,person on right,trees left
+570,B,23297,7,sky,sky top right of building,person on right,sky
+573,B,23327,4,gazelle in the middle,brown thing on left,person on left,brown thing on left
+576,B,23497,8,white car on right side,guy on right,person on right,white shirt guy on right
+579,B,23524,3,sky,sky,sky,sky
+582,B,23605,4,green building?,2nd from left,tree on right,tall building
+585,B,23612,4,left roof,bottom left of building,bottom left corner,bottom left
+588,B,23677,2,boy in center,girl in front,person on left,girl in front
+591,B,23881,4,mask in middle,click on left,people on right,click on left
+594,B,23927,3,big tree to the left,tree on left,tree on left,palm tree on far left
+597,B,23947,2,hill behind foreground,large rock on right,mountain range in middle,rock on right
+600,B,24012,6,cloud above woman's cap,that is on right,cloud on right,that is on right
+603,B,24029,5,left person in vest,guy in middle,person on left,guy in red shirt
+606,B,24298,6,water left of guy on left,second from left,water on left,second from left side of water
+609,B,24306,8,water to left of words on sign,white building on left,water on left,okay so door on left of pic
+612,B,24708,2,sky,sky,sky,sky
+615,B,24791,1,large castle,tall building,tree on left,tall building
+618,B,24931,1,lol yes. signs on window.,person,building,any part of person standing
+621,B,24979,2,sky very top,sky,sky,sky top right
+624,B,25058,1,people,group of people sitting,people,people
+627,B,2506,8,The stone phallic thing on the far right,building on far right,man on right,2nd from right most building on very bottom
+630,B,25175,1,insect,tree on left,tree on left,tree
+633,B,2532,2,bottom,grass bottom right,grass,grass
+636,B,25510,2,sky,sky,sky,sky
+639,B,25542,1,sky,sky top right,sky,sky
+642,B,25634,1,Road in front of group being pictured,bottom right of pic,any part of pic,bottom right next to left of pic
+645,B,25676,2,bird,top left corner,okay so any person,ground
+648,B,25722,1,face,mountain,people,face
+651,B,25914,2,sky,sky,sky,sky
+654,B,25969,3,person on right,person on right,guy on right,person on right
+657,B,25983,3,grass center right,grass on right,grass on right,grass on right
+660,B,2602,1,big cloud center,sky top right,sky top right,sky top right
+663,B,26033,11,wall of building,window on far left side,person on right,window on left
+666,B,26103,2,mist upper left corner,top left corner,sky top left,trees on left corner
+669,B,26211,4,island on left,second from left,person on left,second from left
+672,B,26227,2,window left,window on left,tree on left,top left
+675,B,26251,8,Tree on far left,green on left,trees on right,green stuff on left
+678,B,26300,1,boy,person,any person in front,person
+681,B,26331,2,above the hat,green grass,trees on right,anything green grass
+684,B,26422,9,ground right above the people,girl in black,person on right,click dat closest to left
+687,B,26446,2,mountains,trees on right side,any of pic,trees
+690,B,26527,9,top middle poster,okay so like,window on left,sky top left
+693,B,26557,6,right most person,second from right,person on left,second from right
+696,B,26628,7,cabinets bottom left,building on left,person on left,building on left
+699,B,26730,3,rock ground,bottom right corner,ground bottom right,ground bottom
+702,B,26877,1,giant evil bunny,whatever that has black,any part of people,big rock wall
+705,B,26909,4,first flag on the left,person on left,second from left,guy in back on left
+708,B,2690,2,window,wall next to left,tree on left,left
+711,B,26944,2,man,whatever that has spiders,guy in middle,sky
+714,B,26998,2,the tree things to the right,tree on right,tree on right,trees on right tree in middle
+717,B,2699,5,under guy feet,sand at bottom,any person in front,sand at bottom
+720,B,27034,2,window,tree on left,window on left,left
+723,B,27042,4,farthest bird,closest to us on right,person on right,on right
+726,B,27053,12,seal right barely see it,man on right,trees on right,man on right of pic
+729,B,27100,5,top of picture,building on right,sky,building on right
+732,B,27324,4,building 2nd from right,second from right,building on right,palm tree on right
+735,B,27407,6,lamp on table,hat on right,tree on right,hat on right
+738,B,27427,4,chair that woman is sitting on,second from right,bottom right corner,man with black shirt on right
+741,B,27433,1,beans in the bag,rocks on left,rock on right,rocks on left corner
+744,B,27617,4,weird wall,wall,any part of pic,brick wall
+747,B,27628,4,Overgrown child laying in a hammock,guy on left,tree on right,guy on left side of picture
+750,B,2785,3,HILLS IN MIDDLE,dark brown hills,water next to left,dark brown hills
+753,B,2907,4,middle left side,mountain,grassy area next to right,mountain on left
+756,B,2921,2,tree left,trees on right,trees on left,top right
+759,B,30090,3,sky,sky,sky,sky
+762,B,30153,5,bike,man in front of picture,guy in front,bike
+765,B,30288,1,sky,sky,sky,sky
+768,B,3031,1,sky,sky top left,sky top left,sky
+771,B,30325,4,sky above the skyscraper,sky,sky top left,sky top left corner
+774,B,30357,3,middle person,man in white shirt,guy on right,white shirt
+777,B,30476,4,left woman,all way left,person on left,bottom left
+780,B,30636,2,sky on left,sky top left,sky top left corner,sky top left
+783,B,30701,1,center of the picture,palm tree on left,sky,palm tree on left
+786,B,30761,9,right side water,water on right,water on right,water on right
+789,B,30828,4,group of fish top center of photo,sky no clouds in middle,sky top left corner,sky no clouds in middle of screen
+792,B,30916,6,man by front tire sitting,person on right,person on right,whatever is sitting on right
+795,B,30919,1,ground below woman,ground bottom right,bottom,ground bottom right
+798,B,30966,3,guy,man,guy in middle,man
+801,B,30969,2,picture,any part of people,people on left,people
+804,B,3109,4,cows,group of people,sky top right,people
+807,B,31115,2,blue car,ground,water on right,bottom right
+810,B,31172,1,sky,sky,sky,sky
+813,B,31187,3,sand bottom left,bottom,sky,bottom right corner
+816,B,31276,6,person holding a child on hip,person in back on right,person on right,person in blue shirt on right
+819,B,3127,6,person on front right horse,guy on right,person on left,red shirt guy on right
+822,B,31555,3,trees on right,grassy hill,trees on right,group of grass
+825,B,31608,2,trees,trees,trees on left,trees
+828,B,31619,4,ball,that is holding dudes head,window on right,face
+831,B,31691,2,left tree,palm tree on left,tree on left,palm tree
+834,B,31740,1,bottom court,tile floor bottom right,grass bottom right corner,bottom right
+837,B,31756,1,player in front,white shirt guy on right,tree on right,guy on right
+840,B,31825,2,court,any part of green area,grass at bottom right,green
+843,B,3191,3,branch lower left,bottom left side,person on left,bottom left side
+846,B,31979,1,bottom half for field,bottom,green grass bottom,grass at bottom right
+849,B,32120,1,center of field,grass bottom right,grass at bottom right,grass bottom right
+852,B,32140,1,sky,sky,sky,sky
+855,B,3218,5,surfer second to the left,person 2nd from right,person on right,blue shirt guy on right
+858,B,32198,3,top sky,sky,sky,sky top
+861,B,3220,9,LEFT CHURCH TOWER,water to us,person on left,water to us
+864,B,3221,4,sky,sky top right,sky top right corner,sky
+867,B,32251,1,red yello flag,or whatever that last one,guy in middle,whatever that is
+870,B,32273,2,large head left of center,closest to left,bottom left corner,closest to us on left
+873,B,3234,3,top right white building,green stuff in white building,person on right,white building in back
+876,B,32411,4,trees,grass,trees on left corner,grass
+879,B,32431,2,whatever on the rock,any of picture,building,any part of pic
+882,B,32433,2,rock,ground bottom right,building,ground
+885,B,32439,1,bottom right corner,grass bottom right side,grass bottom right corner,grass bottom right
+888,B,3275,3,water or sand,water on right of picture,water,water on right
+891,B,32840,2,woman on the left w/the red purse,closest to left,man on left,all way to us on far left
+894,B,3319,3,trees,tree on right,palm tree on right,tree
+897,B,3329,8,yellow house,building on right,tree on right,far right
+900,B,3332,2,water behind boats,water,water on left,water in back
+903,B,3339,3,left bottom corner,bottom right corner,bottom left corner,bottom right corner
+906,B,3415,11,small statue on far right,building on right,tree on right,all way on far right
+909,B,3460,4,white building on right side,white building on right,tree on right,white building on right corner
+912,B,3495,1,bird,lady in front,person on left,blue
+915,B,35604,4,dirt bottom left corner,ground bottom right,ground at bottom,ground bottom right corner
+918,B,35621,2,pavement very bottom,bottom right corner,tree on left,bottom right corner
+921,B,35640,2,top right sky,sky top,sky top right,sky top right
+924,B,35656,9,left building,brick wall on left,person on right,brick wall
+927,B,35722,6,mountains,tiny strip of pic,sky top left,sky
+930,B,35743,6,man red shirt,man in red shirt guy,guy in red,second from left
+933,B,3575,1,green left center,trees on right,palm tree on right,any of pic
+936,B,35838,4,sky,sky,sky,sky
+939,B,35888,3,tree,tree on left,tree on left,left
+942,B,36004,3,trees on right/middle,trees on right,palm tree on right,trees on right
+945,B,3604,2,mountain,mountain,trees,mountain
+948,B,36072,4,middle building,white thing on left,person on right,white thing
+951,B,37098,1,center car,first one up,trees on right,first one
+954,B,37166,4,sky upper right,sky top right,sky top right,sky top right
+957,B,37220,4,sky top,sky top left side,sky top left,top left
+960,B,37244,2,sky,sky,sky,sky
+963,B,37249,2,bottom snow,ground at bottom,ground bottom left,bottom right
+966,B,37307,1,bottom right corner floor,ground bottom,bottom left corner,okay so like you
+969,B,37327,4,click bottom right corner,big rock on bottom right,ground bottom right,trees on bottom right
+972,B,37366,6,tree on the left,tree on left,person on left,tree on left corner
+975,B,37427,2,tree in the center of the pic,tree on left,tree on left,trees at top left of big tree
+978,B,37468,2,person in green shirt middle,guy in front,tree on left,red shirt guy in front
+981,B,37471,1,the people,guy,people,any 1
+984,B,37496,4,right bro,guy on right,person on right,on right
+987,B,37525,3,bottom right,lady in front of people,okay so any 1,any person
+990,B,3756,1,sky,sky top left,sky top left,sky
+993,B,37652,1,dark green grass,grass bottom right,grass at bottom,grass bottom right
+996,B,37719,1,Road,road,bottom,road
+999,B,37734,5,street,road,ground bottom left corner,road
+1002,B,37797,1,anywhere bottom,ground bottom right,ground bottom left,bottom right
+1005,B,37846,3,pointy gravestone foreground,lamp post up,tree on right,lamp post up
+1008,B,37890,4,The purple building by the green building.,building on right,window on right,top left side of building on right
+1011,B,37925,1,flag left,closest to us on left,guy in front,red shirt
+1014,B,37932,5,murica,2nd from left,person in middle,sign
+1017,B,37990,2,buildings,any part of pic,trees,sky
+1020,B,38019,1,clouds,sky top right,sky,sky
+1023,B,38030,10,area to right of bike dude near head,person on left,sky top left,man in background on left side of screen
+1026,B,38063,3,sky,sky,sky,sky
+1029,B,38114,2,sky,sky,sky,sky
+1032,B,38248,5,top sky,sky,sky,blue sky
+1035,B,3847,2,brown sorry,rock,people,bottom left
+1038,B,3862,2,inbetween the two branches on the left,very bottom right,water,green leaves at very bottom right corner
+1041,B,38774,1,bldg in middle,top left,man in middle,building on left
+1044,B,39029,3,green brush,grass at bottom,grass at bottom right,bottom right
+1047,B,39053,3,top of mountain,sky top right,mountain,sky top right
+1050,B,3918,5,grey car in front,sand bottom left,tree on left,sand closest to left
+1053,B,39219,3,grass anywhere,very bottom right,bottom,bottom right
+1056,B,39309,1,ground,sand bottom,ground bottom left,bottom
+1059,B,39405,1,lake,water,water,water
+1062,B,39437,1,any part of field,green grass,green grass bottom right,green grass on right
+1065,B,39503,1,koala,tree on left,tree on left,wall
+1068,B,39520,1,white bird,thing on left,person on left,top left
+1071,B,39550,1,sand,ground at very bottom right,ground at bottom,ground
+1074,B,39564,2,guy,2nd from left,person on right,person
+1077,B,39602,3,stop light,window on right,tree on right,on right
+1080,B,39623,1,llighthouse,second from left,second from left,left
+1083,B,39736,2,closr big rock left,rock on left,people on left,large rock on left
+1086,B,39776,3,rocks to the right,rocks on right,any part of people,any part of picture
+1089,B,39800,1,sky,sky,sky,sky
+1092,B,39851,2,a kangaroo,grass,palm tree on right,top left
+1095,B,39872,3,sky,sky,sky,sky
+1098,B,40140,5,grass in front on the right,okay so close to right,grass on right,okay so any part of picture
+1101,B,40176,1,bird,tree,person on right,tree
+1104,B,40239,3,biggest building,okay so click on left,trees on left,top left
+1107,B,40332,3,hightest building middle,tall building on left corner,tree on left,building on left
+1110,B,40344,2,building left,sky,people,tall building
+1113,B,40448,2,sky,sky,sky,sky
+1116,B,40460,2,building to right of tallest one,building on right,tree on right,tall building on right of picture
+1119,B,40480,3,center palm tree,tree on left,tree on left,tree on left
+1122,B,40490,2,The sky,sky,sky,sky cloud
+1125,B,40523,2,horse,man,trees on left,man
+1128,B,40557,1,floor,ground bottom left,bottom left corner,ground
+1131,B,40648,5,left ostrich,bush on left,person on left,lamp post
+1134,B,40684,1,bottom left rock,ground bottom right,water,ground bottom right
+1137,B,4263,7,pants of first man on right,lady in middle,grass bottom right,black shirt and lady in middle
+1140,B,4272,1,tree right,tree on right,tree on right,bottom right
+1143,B,4275,4,window in fornt,dark brown door,ground bottom left,dark brown door
+1146,B,4277,7,big center doorway,group of pic,palm tree on right corner,group of pic
+1149,B,4446,5,front of water,water,water at bottom,water at bottom
+1152,B,4449,3,man,man in black shirt,any person on left,person
+1155,B,4510,7,Boat,2nd from left,water on left,building
+1158,B,4561,3,seal in the center laying dead,man on left,man in middle,man in front of her hand
+1161,B,4610,3,ice,any part of pic,sky,water
+1164,B,4718,13,yellow sign towards the back of the green and white bus,second from left,tree on left,all way to left of building on far away from right
+1167,B,4746,4,building,big building,people,building
+1170,B,4861,11,group of sticks directly in center of picture over the middle hammock,guy in middle,person on right,chair closest to right of guy in back row 2nd from left
+1173,B,4899,19,white wall middle,building on right,ground bottom right,building on right
+1176,B,4951,1,the front animal on the left,click on left of pic,person on left,click on left side of pic
+1179,B,4952,6,rightmost side of the hill,grassy area on right,tree on right,grassy area on far right
+1182,B,4988,6,sky,sky,sky top right,sky
+1185,B,5013,11,tree just right of fountain,tree on right,second from left,palm tree on far right
+1188,B,5059,3,mountains middle,mountain range just right,top left corner,mountain range
+1191,B,5105,1,the lady,little girl,any person in front,little girl
+1194,B,5107,8,left side of pic sidewalk,man on left corner,trees on right,man on far left corner
+1197,B,6306,7,top right trees,tree on far right,tree on right,tree on right
+1200,B,6327,7,mountains above far left head,any person on right side,trees on left,any person on right side
+1203,B,64,5,sky,sky,sky,sky
+1206,B,6639,2,top left corner,top left corner,top left corner,top left corner
+1209,B,672,1,santa,man in front of people,any part of people,people
+1212,B,6901,1,road,bottom left,ground at bottom left,sand
+1215,B,6933,3,group of people,large group of people,people on right,group of people
+1218,B,7005,4,bottom left man,man in front,person on left,man in front
+1221,B,7022,2,hill not ppl,grassy area on left,trees,grass on right
+1224,B,7031,6,ground below and left and orange,very bottom left,ground bottom left,grass at bottom left of pic
+1227,B,7037,2,bird in front of people,person in front,water on right,person in front of pic
+1230,B,7047,1,man on right edge,guy on right,man on right,man sitting on right
+1233,B,7065,3,left of the kid's face on the ground,sand to left side,wall on left,okay so close to left side of boy
+1236,B,7089,2,bamboo structure,any part of screen,top,top left
+1239,B,7234,9,water under the rail on the left,tree on left,person on left,palm tree trunk on far left corner
+1242,B,7317,5,water,anything but his head,sky top right,water
+1245,B,7328,2,sky,sky,sky,sky
+1248,B,7420,3,ground in between the legs of the two men in front,ground at very bottom right,bottom right corner,ground at very small patch of woman in front bottom right
+1251,B,7425,1,people,little girl in front,people,man
+1254,B,7468,1,woman or boy,man in red jacket,any of people,man in red
+1257,B,7491,2,boy in jeans and yellow shirt with red sleeves,blue shirt guy in front,person on left,man with red shirt guy in front of girl
+1260,B,7541,3,dark hills,trees in background,trees on left,green trees
+1263,B,7545,4,clouds,sky,sky,sky
+1266,B,7570,1,people,any part of people,any of people,trees
+1269,B,7593,3,people,okay so any of people,any of people,people
+1272,B,7606,8,flowers in front,people in middle,person on left,people on left
+1275,B,7693,3,Truck Far right under carport,i you can see,man on right,you can see last one
+1278,B,7708,4,the lady,man in middle,man on left,white shirt
+1281,B,7721,5,any part of rock animal laying on,very bottom right,anywhere,any part of picture on bottom right
+1284,B,7744,5,Small stone jutting up from the ground to the right of the woman,trees on right,tree on right,trees on far right side of picture first one way to left corner
+1287,B,7802,4,black stuff,top left,building on right,top left
+1290,B,7805,3,plants in front,patch of picture,grass at bottom,patch of picture
+1293,B,7807,5,bag inbetween the two people,guy in back facing camera,tree on left,guy in back facing camera
+1296,B,7824,4,middle back window,guy in middle window,person in front,guy in middle
+1299,B,7858,4,the brik wall,brick wall,sand,brick wall right
+1302,B,7866,8,blanket of red sweater person,guy in front,sky top left,guy in front of people
+1305,B,7884,1,middle bottom ground,bottom right corner,ground at bottom,bottom right corner
+1308,B,7939,2,The green plants,palm tree on right,person on left,trees on right
+1311,B,7960,14,plate with food in front of empty chair,thing on left,second from left,woman in front of table on left corner
+1314,B,7965,6,girls head,person on left,building on left,upper left
+1317,B,7969,5,black area top right corner,dark area at top right,palm tree trunk on right,dark area on right corner
+1320,B,7979,3,rock formation,brick wall on right,sky,brick wall
+1323,B,8019,7,bad sweater guy,man in middle,guy in front,man in middle
+1326,B,8021,6,ceiling,sand bottom,any part of people,sand
+1329,B,8104,4,Houses in a row,tall building on right,any of pic,tall building on right
+1332,B,8160,1,sky,sky,sky,sky
+1335,B,8183,1,anything but the sky,mountain,people,mountain range in middle
+1338,B,8205,7,leaf lower right,grass on right,grass on left,grass on right
+1341,B,8353,3,water to left of girl,person on left,water on left,person on far left corner
+1344,B,8374,2,left mountain,grassy area on left corner,trees on left,top left
+1347,B,8423,3,peeps,group of people,group of people,people
+1350,B,8442,3,top right corner,man in background,ground at bottom,man in background
+1353,B,8506,1,sky,sky,sky,sky
+1356,B,8508,7,cactuses on right,second from right,tree on right,second from right
+1359,B,8536,3,street at bottom,dirt at bottom right corner,ground at bottom,bottom right corner
+1362,B,8559,4,bottom right,ground at bottom,ground at bottom,ground bottom
+1365,B,8599,7,guy on far right,person in black shirt guy,person on right,person 2nd from right
+1368,B,8602,6,left most painting,wall on left,bottom left corner,wall on left
+1371,B,8603,9,small sign top middle of screen,top left of picture,very top left,window on left side of pic
+1374,B,8923,5,trees to left on the train,trees in background on left,tree on left,trees to you click on left
+1377,B,8933,8,the chick? wearing a white shirt,red shirt guy on right,guy on right,man in red shirt on right
+1380,B,9003,1,background,sky,sky,sky
+1383,B,9009,4,road,ground bottom right,ground at bottom right,ground
+1386,B,9023,2,first palm tree,tree on right,grass on left,tree on right
+1389,B,9035,1,right man,top right,man on right,top right
+1392,B,9049,1,top of mountain,rock on right,water on right,rock on right
+1395,B,9049,4,water,any part of water,any of people,water
+1398,B,9124,1,entire thing,anywhere,sky,dark area
+1401,B,9137,2,anywhere in foreground,any part of picture,rock,any of picture
+1404,B,9152,1,bottom left corner,that is sitting on right,any of picture,group of people
+1407,B,9169,1,group of people on the right side,whole group of people,building on right,any person sitting on right of people
+1410,B,9209,11,BACK DOOR (SRY),top right side of pic,person on right,building on right
+1413,B,9218,4,right,hat on right,tree on right,top
+1416,B,9261,5,orange woman on left,guy on left,guy on left,guy in blue shirt
+1419,B,9345,5,above black shirt's head,woman in back left,tree on left,woman on left corner
+1422,B,9357,1,any person,group of three people,people,any 1
+1425,B,9393,14,the sign that says sidra or something,open book next to right,person on right,open book next to right of sign
+1428,B,9438,9,big center tree,big tree on left,trees on left,tree on left
+1431,B,9475,7,white triangle in front of plate,closest to us,ground bottom left,table closest to you can see
+1434,B,9507,9,donkey,grass in front,person on right,grass
+1437,B,9571,6,table very bottom,floor next to left corner,trees on right,bottom left corner
+1440,B,9588,1,person,ground at bottom,any part of people,ground
+1443,B,9604,1,man,man in front,any person on left,man
+1446,B,9605,10,thing in guy's hands on the left,second from left,top right corner,man in back facing away from left
+1449,B,9731,4,guy,guy in black shirt,person on right,person
+1452,B,9742,3,bird bottom right,rock on far right,person on left,rock on right
+1455,B,9742,5,the weeds to the very left,any of two people,ground bottom right,any person in front of people
+1458,B,9747,5,guy on left in glasses,person on left,water on right,person on far left corner
+1461,B,9752,1,woman,guy on left corner,person on left,man
+1464,B,9754,6,leftmost bingo board,brown thing on left,trees on right,window on left
+1467,B,9760,8,Bus seat directly to right of woman,empty chair on right,very top left,okay so any of door on right
+1470,B,9788,10,little bit under DO15,bottom right corner,tree on left,small patch of water
+1473,B,9788,8,gated,2nd from right,person in red,middle
+1476,B,9809,5,rock on left,tree on left,second from left,tree on left
+1479,B,9838,2,middle mountain,trees on right,any part of pic,green trees
+1482,B,9874,3,chair closest to us on right,bottom right corner,sky top right,that is sitting on right corner
+1485,B,9938,15,kid with hat in very front,guy in front,sky top right,blue shirt and guy in front
+1488,B,9938,16,boy with raised hand front left,man on left,person on left,man in white hat on left
+1491,B,9941,2,mountains middle,mountain in background,mountain range city,mountain range
+1494,B,9975,4,person on left,guy in black shirt,second from left,guy on left
+1497,B,9986,5,right most animal,group of man in back,building on right,2nd from right
+0,C,10005,2,plate with frys,plate in front of pic,water on left,that is holding
+3,C,10112,3,guy left,man in front of people,person on left,blue shirt
+6,C,10133,1,red shirt guy,man in red,guy in red,man in red
+9,C,10176,7,plate bottom left,second from left of man,building on right,second from left
+12,C,10232,6,right horse,second from right of screen,building on right,far right
+15,C,10317,2,man in middle,man with white shirt,man on left,man on left
+18,C,10389,6,bike on right,2nd from right,person on right,2nd from right
+21,C,1039,3,table bottom left,very bottom left corner,tree on left,bottom left corner
+24,C,10406,3,water above girls,okay so girl in front,tree on right,girl in front
+27,C,10460,1,blue jacket man,man in middle person,person on right,man in middle
+30,C,10569,1,person on right,person on right,man on far right side,person on right
+33,C,1056,9,flag on the right,tree on right,person in front,tree on far right
+36,C,10630,4,trees to the right of the womans head,trees on right,trees on right,trees on right side of tree in middle
+39,C,1079,4,upper window on left,building on top left,tree on left,building on top left
+42,C,10876,4,plants just to right of guy,tree trunk on right side,tree on right,tree on right side of picture
+45,C,1091,4,window left of T in hotel,2nd from left,person on left,all way on far left corner
+48,C,10923,3,surfboard held by dude in white shirt,snow on right,man on right,yellow thing on far right of pic
+51,C,11088,5,right guy,man in front,tree on left,white shirt
+54,C,11104,6,man on right,blue shirt guy in front,tree on right,guy in front
+57,C,11148,4,lady blue shirt white pants,person in white shirt,guy on right,white shirt guy in middle
+60,C,11149,6,person with blue jacket,man in blue shirt,person on left,man in blue shirt
+63,C,11219,3,dude with gay pose,man on right,man on right,man in front right
+66,C,11221,5,guy on right,blue shirt guy on right,person on right,guy on right
+69,C,11227,7,the lady holding the books,person on right,person on right,man with glasses on right
+72,C,11255,3,chick with sohrts and sandals and blue side bag,man in front,man on right,man in black shirt guy with glasses on right
+75,C,11317,9,house on right of picture,group of people,tree on left,group of people on right
+78,C,1142,2,right bed,wall bed on right,man in front,bottom right
+81,C,11455,13,woman's yellow helmet in front,top of guy in back,guy on right,top of guy in back
+84,C,11470,13,on ground,second from right,group of people,bottom right
+87,C,11559,3,kid's hat,red thing hanging on right,woman in red,on right
+90,C,116,2,left person,guy in blue shirt,person on left,blue shirt
+93,C,11713,7,boat left of man in blue hat,woman in red,people on right,woman in red and green on left
+96,C,11719,7,tree middle of group,second from right,tree on right,palm tree on right
+99,C,11719,8,palm tree right,second from right,tree on right,second from right
+102,C,11735,6,cactus all the way to the left,buildings on left,tree on left,small patch of big rock on left
+105,C,11878,6,top left quilt,second from left,ground bottom left,second from left
+108,C,12003,5,person in back in striped shirt,guy on left,water on left,closest to us on far left
+111,C,12050,15,blakc rectangle in from of building on left,closest to left,sky top right,small patch of big one closest to left
+114,C,12115,4,the computer on the left,very top left side,tree on left,top left side of picture
+117,C,12142,6,bag behind dude on right,blue shirt guy on right,tree on right,blue shirt guy on right
+120,C,12162,4,guy in middle,person on right,person on right,person on right
+123,C,12246,4,blue shirt man,guy in blue,guy in middle,guy in middle
+126,C,1231,1,bed to left,far right,water,bed on right
+129,C,12450,3,grass/mountain top right aove wing,mountain on right of picture,building on right,mountain on right of picture
+132,C,12568,5,door/window front left,window on left,tree on left,window on left
+135,C,12668,3,empty right seat,guy on right,person in middle,guy on right
+138,C,12696,4,right tree,lamp post on right,tree on left,lamp post
+141,C,12696,9,middle short tree,tall palm tree,bottom right corner,tall palm tree
+144,C,12699,2,left building,water on left of people,tree on left,far left
+147,C,12729,13,red bowl,yellow flower pot on left,tree on right,far left
+150,C,12730,3,person farthest left,guy in red shirt,person on left,second from left
+153,C,12769,5,center flag,white thing on right,person in red,white thing
+156,C,1276,5,lamp on left,person on left,person on left,person on left
+159,C,12901,10,fuit and vase picture,wall on left,second from left,brick wall on left
+162,C,12986,3,left most person,person on left,trees on right,person on left
+165,C,1312,3,left orange window,2nd from right,building on right,2nd from right
+168,C,1312,8,window on left,window to us on left,tree on left,window on left
+171,C,1325,4,window on brown building,big building on left,tree on left,very top left corner
+174,C,1326,1,left bed,bottom left,bottom left of pic,bottom left
+177,C,13293,8,shutter,tall building on far right,window on right,building
+180,C,13293,9,right top windows,building on right,tree on right,building on right
+183,C,13488,3,mug farthest right,beer bottle on right,people on right,beer can see
+186,C,13502,2,dude right,guy sitting on right,man on right,on right
+189,C,1401,8,tree center back,green trees on left side,trees on right,trees on left
+192,C,14048,3,orange panel far left,very bottom left,person on left,all way to left
+195,C,1421,2,bed furthest from us,people on right,bottom right corner,table next to right
+198,C,1422,3,Tree far right,palm tree trunk on right,tree on right,tree on right
+201,C,1424,4,foliage above the sign,green leaves at top,trees on left,green leaves at top
+204,C,14768,2,lage,all way to left,tree on left,left
+207,C,14836,1,left most bird,woman in red shirt,guy in front,woman in front
+210,C,15026,6,man kneeling down on left,guy in middle,person on left,red shirt guy in middle
+213,C,15113,8,window in the middle,okay so like empty chair,building on left,window next to us
+216,C,15390,10,leftmost column,third from left,person in middle,top left
+219,C,15390,11,pillar right,second from right,any of people,top right
+222,C,15537,4,leftmost building,building on left,person on left,far left
+225,C,15541,8,barred window top right,top right of screen,window on right,top right of screen
+228,C,15565,11,white house right,building on right,people on left,building on right
+231,C,15566,9,building in middle right of tree,2nd from right,building on right,white part of building on right
+234,C,15651,17,hanging light top left,guy on left,second from left,guy in pink shirt
+237,C,15652,3,red light in the top right corner,second from right,bottom left corner,second from right of woman in red
+240,C,15678,9,table cloth right,closest to right corner,man in front,bottom right corner
+243,C,15698,8,right building,any of building,water at bottom,yellow building
+246,C,1583,1,nountain on left,all way to left,trees on left,mountain on left
+249,C,15886,6,rice bag on left,patch of man in back,tree on right,yellow thing on right
+252,C,16001,5,greyish part,man in front,tree on left,blue shirt
+255,C,16262,10,fountains center column,closest to left,person on right,closest to left
+258,C,16390,6,woman front in black,person on right,tree on right,person in red shirt
+261,C,16420,4,2nd man from the right,man in middle,person on left,white shirt guy on right
+264,C,16570,1,red shirt left,2nd from left,person on left,2nd from left
+267,C,16603,3,man wearing blue and hat near right,guy in front,person on right,man with black shirt guy in front
+270,C,16728,3,back tire,girl in front of pic,tree on left,bottom left
+273,C,16846,7,k-13,that is on left,people on right,left
+276,C,16864,2,clay,flower pot,man on right,water
+279,C,16866,2,jeep to the right,white car on right,building on right,white car on right
+282,C,1703,10,fruit left of zurit packet,closest to left,tree on left,bed closest to left corner
+285,C,1732,5,water behind truck on right,chair on right,tree on right,chair on far right corner
+288,C,1740,4,right most front three cactus,building on right,tree on right,building on right of picture
+291,C,1740,6,bottom green,bottom left corner,man on right,bottom left
+294,C,17426,11,bike only in center,guy with backpack on left,person on right,all way to us
+297,C,17454,1,bed on left,bed closest to left,building on left,closest to left
+300,C,17499,4,trees on the right top side,trees on right,palm tree on right corner,trees on right side of pic
+303,C,17568,2,canadian? flag,floor,person on left,last one
+306,C,17743,5,top right window,building on right of picture,tree on right,building on right
+309,C,17755,4,the blue window farthest to the left,second from left,second from left,all way to left side of pic
+312,C,1784,5,hills left above animals,mountain in middle,water on left,mountain range in middle
+315,C,18000,2,bird on the right,man on right,tree on right,blue shirt is holding
+318,C,18072,2,kid in gray shirt bottom left corner,girl in front,tree on right,girl in front of people on left
+321,C,18074,5,middle tan girl,all way in red shirt,person in red,man in front
+324,C,18121,2,building on left,tall building on left,tree on right,building on left
+327,C,18139,4,tall tree on left,tree on left,tree on left,palm tree on left
+330,C,18216,4,white mini van,white car next to left,people on right,2nd from left
+333,C,18257,2,ground to left of waterfall,tree on left,tree on left,tree trunk on left corner
+336,C,18359,8,left set of windows far away,tall building on far left,person on left,tall building on far left side
+339,C,18406,6,bototm of white building ledge on right,palm tree on right side,tree on right,palm tree on right side of picture
+342,C,18420,6,closest triangler flag,tree on left,people on right,tree on left
+345,C,1842,5,bike all the way right side,second from right,group of people on right,second from right side of picture
+348,C,18489,7,paper on desk to right of blue shirt womans head,man in front,sky top left,man in white shirt guy is sitting on far right
+351,C,1867,1,far right cactus,tree on right,man on right,tree on right
+354,C,1871,2,left llama or whatever it is,trees on left of pic,person on left,white thing on left of pic
+357,C,18730,4,building upper left,white building on left,building on left,building on left
+360,C,18819,6,small top window,first window on far right,any of people,window on right
+363,C,18819,8,rose bush on left,bottom left corner,tree on right,red thing on left
+366,C,18829,2,that fancy stuff on the bottom left,people in front,ground bottom left,any part of people on left corner
+369,C,18837,10,takeout container on the far right,open book on right,bottom left corner,white part of picture on right
+372,C,18845,3,bed right,on right,person on right,on right
+375,C,1885,3,mountains left of statue,rock on left,building on left,dark area on left
+378,C,18952,12,right bike,second from right,person on left,far right
+381,C,19011,10,right side lamp on wall,man on right,sky top right,top right side of picture
+384,C,19027,2,right boat,building on right,person on right,far right
+387,C,19033,3,green shirt,person on far right,tree on right,bottom right
+390,C,19049,4,top rightmost window,window on right,ground bottom right,window on right
+393,C,19050,1,left bed,click on left,person on left,bottom left
+396,C,19070,2,black man front center,man in black shirt,okay so like,man in black shirt
+399,C,19161,5,rightmost animal,person from right,person on right,on right
+402,C,19197,3,black hill far right,buildings on right of pic,dark area next to right,any part of pic
+405,C,19222,6,lady on left,guy in red shirt,person on left,guy in front
+408,C,19237,4,mountain left of plane,mountain range,mountain on left,mountain range on left
+411,C,19260,2,The person on far right.,blue shirt guy on right,grass on right,blue shirt guy on right
+414,C,19262,6,left,man on left,water on right,left
+417,C,1930,3,plant right,yellow flower pot on right,people on right,bottom right
+420,C,1930,9,left most potted plant,person on left,person on left,brown thing on left
+423,C,19337,5,house on right,click on far right corner,tree on right,click on right
+426,C,19383,6,middle person in black,man in red,sky top left,man in red shirt
+429,C,19566,6,small window above third row man on the right,2nd from right,trees on right,beer bottle closest to you can see it is
+432,C,1956,10,middle left girl,person in middle,guy in front,person in middle
+435,C,19582,4,glass all the way to the left,2nd from left,bottom right corner,brown thing in front tire on left
+438,C,1959,6,bike left,second from left hand side,person on left,on left
+441,C,19671,1,left animal,wood thing on left corner,tree on left,on left
+444,C,19676,3,tree to right of shoulder,bottom right corner,tree on right,click on far right corner
+447,C,19677,9,boxes in back,person on left,building on left,person on left
+450,C,19735,3,right bird,lady in middle top right,white building on right,top right
+453,C,19757,2,2nd bed,thing that is sitting,top right corner,that is
+456,C,1977,2,tree left front,tree on left,building on left,tree on left
+459,C,19813,5,window far right,building on right,man on right,building on right
+462,C,19978,9,first building on right,tallest building on right,tree on left,building on right corner
+465,C,19989,2,land area on left middle,grassy area at bottom left,trees on left,grassy area at bottom left
+468,C,2009,1,Tree in the center.,palm tree trunk on left,tree on right,palm tree on left
+471,C,20344,2,center bottom building,building on left,guy in front,building on left
+474,C,20344,4,blue green building on left,building on left,water on left,building on left of pic
+477,C,20421,3,palm left lol,tree on left,tree on left,tree on left
+480,C,20481,1,left horse,tree trunk on far left,person on left,far left
+483,C,20743,5,2nd to left,guy in back,person on left,guy in back
+486,C,20747,4,good,people on left,palm tree on left,people
+489,C,20756,1,woman with polka dots up front,guy in front,guy in front,guy in front of guys head
+492,C,2078,4,lady in blues hat,closest to left,guy in front,white thing on left
+495,C,2083,1,lady in white shirt and hat middle,person in front,guy in middle,person in front of guy on left
+498,C,20925,2,vegetation left,green grass on left,grass on left,top left
+501,C,20956,2,middle of pink building,white building on right corner,guy on right,building on right corner
+504,C,21480,1,SHIRT*,little boy in front,any person on left,face
+507,C,21524,2,bike of woman in white shirt,second from right,tree on right,that is sitting on far right
+510,C,21635,3,left most bird,water on far left,person on left,2nd from left
+513,C,21786,2,man on left,person on left,person on left,person on left
+516,C,21935,4,first tall brown bottle from left,man in front,person on left,man in front of red shirt
+519,C,21960,6,right side,2nd from right,tree on right,red shirt
+522,C,22080,5,boy in middle lower,woman in front,person on left,woman in red shirt
+525,C,2213,3,Left house,white thing on left,second from left,on left
+528,C,22172,5,blue shirt,man in blue shirt guy,tree on right,blue shirt
+531,C,22228,6,left man,blue shirt guy in front,person on left,blue shirt
+534,C,22315,12,the empty chair next to the man in blue and white,2nd from right,grass on left,2nd from right next to us is sitting lady in middle
+537,C,22371,9,the black thing on the table,that looks like,trees on left,that looks like it is holding
+540,C,22379,4,right wall,brick wall on right corner,tree on right,brick wall
+543,C,22465,4,guy in red jacket,man in front,person in red,man in red shirt
+546,C,22474,2,blenders,guy in middle,tree on left,table
+549,C,22474,7,fruit in basket 2nd right,patch of pic,person on left,very small patch of pic
+552,C,22483,4,(JUS MISSED IT) BACK GRAY TABLE ON RIGHT,top right,trees on right,any part of picture on far right corner
+555,C,22485,8,bottom center bunk,tile floor bottom,people on right,floor bottom left
+558,C,22485,9,bottom right bed,person on right,guy in front,person on right
+561,C,22487,3,white pan,okay so like it,building on right,white boat
+564,C,22576,2,man on rightest,man on right,tree trunk on far right,man on right
+567,C,22577,6,water b y left guy feet,guy on left,bottom left corner,guy on left person in center
+570,C,22588,2,black llama,grass to left,person on left,upper left
+573,C,22642,5,tent left,water,water on left,water left
+576,C,22774,1,right totem,okay so like or right,tree on right,white hat
+579,C,22781,10,left donkey,closest to us on left,tree on left,far left
+582,C,22781,11,second horse from right,guy in middle of pic,tree on right,in middle of pic
+585,C,22944,3,chair with yellow and blue,okay so like on right,people on right,okay so like on right
+588,C,22956,6,middle white horse,tree on left,person on left,tree on left
+591,C,22957,3,mountaintop in middle of pic,mountain range in back left,sky no clouds,mountain range in background mountains
+594,C,22999,7,cable car on right,guy in middle,second from left,whatever that is sitting
+597,C,23017,5,purple flower bush,tall tree on right,ground bottom right,tree on right
+600,C,23076,11,lamp right,lamp post on right,second from left,lamp post
+603,C,23076,12,left street lamp,all way to left,sky top left,tree on left
+606,C,23083,6,very top right window,window on right,second from left,window on far right
+609,C,23113,3,guy in front,person in front,person on right,person in front
+612,C,23115,6,hanging sign on right,all way to right,person on right,all way to right
+615,C,23116,6,yellow duck on right,guy on right,person on left,okay so top right
+618,C,23128,8,top left building,building on left,man in front,building on left
+621,C,2316,8,2nd lounge chair on left,all way to left side,tree on right,all way to left side
+624,C,23186,3,chair yellow guy,chair on left,person on left,bottom left corner
+627,C,23186,4,yellow shirt,people on left,person on right,green shirt
+630,C,23229,6,Bottom 2nd from right person,man in front,person on right,all way on far right
+633,C,23270,13,second palm tree from left,tree on left,tree on right,palm tree on far left
+636,C,23315,17,car middle,second from left,bottom left corner,white car
+639,C,23319,7,blue shirt,person sitting on far left,person on left,far left
+642,C,23326,2,person on right,that is sitting on right,person on right,person on right
+645,C,23334,2,blue shirt,person in middle,tree on right,blue shirt
+648,C,23368,7,bright green shirt,person on right,guy in middle,person on right
+651,C,23384,3,girl in red shirt next to dude in red shirt,guy in middle,person on right,woman in red shirt guy with black hat on left
+654,C,23583,4,hill to the right of kids head above house,trees on right,trees on right,green hill on right side of mountain in back
+657,C,23639,1,lady left red hat,blue shirt,man in front,guy in red shirt
+660,C,23641,1,snowcap,mountain range in back,sky no clouds,mountain
+663,C,23730,2,middle girl,person,guy in red shirt,red shirt
+666,C,2386,1,gold thing,any part of pic,trees on left,in middle
+669,C,24043,5,far right window,that looks like,window on right,that looks like
+672,C,24068,3,left truck,second from left corner,trees on left,red car
+675,C,24307,3,middle green sign,blue,grass on right,blue and green
+678,C,2430,4,foreground tree in the middle,tree on right,person on left,tree on far right side
+681,C,2496,5,top upper right as far as possible,very top right,top right corner,group of sky top right hand corner
+684,C,2516,2,blue outlined window on yellow wall,all way left,people on left,all way to left of table
+687,C,25216,3,left chair,second from left,tree on left,second floor
+690,C,25248,1,three in front of arch,palm tree,palm tree on right,palm tree trunk on right
+693,C,25574,1,middle bird,guy on right,building on right,top right
+696,C,2568,6,boat right,white building on right,tree on right,white building
+699,C,25766,7,dog on right,car in front,person on right,car in front
+702,C,25969,4,man in orange,guy on left,person on left,guy on left
+705,C,26046,8,first horse from left,brown horse closest to left,trees on left,boat closest to left
+708,C,26150,4,window top right,closest to right,tree on right,closest to right
+711,C,2615,4,far left building,building on left side,tree on right,building on left
+714,C,26217,11,thing above van,closest to right,person on right,closest to right
+717,C,26497,2,the bed on the right....white bed bottom right,bottom right side,bottom right corner,bed on right side of girl in front
+720,C,26572,6,kid shaking hand,lady in back,person on left,lady in back
+723,C,26587,5,left most person,guy in middle,person on left,guy in middle
+726,C,26787,4,person on far left,woman in back on left,person on left,person on far left
+729,C,2678,3,closest car,white car closest to us,grass on right,white car
+732,C,26793,8,yellow food in front of girl on left,man in front of table,bottom right corner,man in front of table next to us
+735,C,26914,1,snow mountain,mountain in background,snow,big rock
+738,C,26933,7,2nd bike from left,guy sitting on left,tree on right,guy sitting on left
+741,C,26990,4,pink/red table,guy in red,bottom left corner,blue shirt
+744,C,27000,3,man,man on right,person on right,man
+747,C,27042,4,bird in back,closest to us on right,person on right,grass on right
+750,C,27064,3,kid holding the dog,guy with white shirt,guy on right,guy with white shirt
+753,C,27097,11,drinks right,2nd from right,second from left,far right
+756,C,27101,3,right ide person,person on right,person on right,person on right
+759,C,27118,5,bars on upper right,yellow building on right,ground bottom right,yellow building on right
+762,C,27185,11,rightmost chair,second from right,person on right,bottom right
+765,C,27207,3,hut to the nearest left of the person on the right,building on right,tree on right,brick wall on far right side of building in back left
+768,C,27207,7,horse on left with the guy riding it,tree on left,sky top left,palm tree on left of guy in front
+771,C,27221,11,person far left,guy on left,people on right,guy on left
+774,C,27425,9,window closest to door on right,second from left,person on left,second from left window on right
+777,C,27427,5,*right,second from right,tree on left,right
+780,C,27437,4,brown shirt guy on right,second from right,tree on right,person all way to right
+783,C,27462,2,mtn on rt,top half of picture,building on right,top of picture
+786,C,27477,15,chair all the way to the left,blue shirt guy in middle,person on left,whatever that is sitting in blue shirt
+789,C,27477,4,left person,guy in blue,person on left,blue shirt
+792,C,27514,4,white car very right,second from right,person on right,second from bottom right
+795,C,27515,16,man behind dude on white horse,second from left,person on left,guy in black hat on left
+798,C,27515,9,guy with red on shirt,man in middle,ground bottom left,man in background on right
+801,C,27609,5,second window from right,all way left,second from left,all way to left
+804,C,27619,3,girl in middle,woman,person on right,woman in front
+807,C,27654,4,red shirt woman,man in blue shirt guy,guy in red,man in blue
+810,C,2837,4,building peeking out from left of statue,second from left,tree on left,all way to left side of pic
+813,C,30010,5,van with globe,click on right,building on right,click on right
+816,C,3005,18,yellow car,white car on left,building on right,bottom left
+819,C,30076,3,left wheel,man in front,second from left,in front
+822,C,30234,3,green tree to the left,tree on left,tree on left,tallest palm tree on left
+825,C,3026,10,front center lilypad,grass on right,trees on right,grass on right
+828,C,3026,14,bottom right corner,grass bottom right,tree on left,bottom right corner
+831,C,30357,3,red shirt,man in white shirt,guy on right,white shirt
+834,C,3038,6,space between threes,tree on left,tree on left,tree on left
+837,C,30630,3,tree on left,palm tree on left,tree on left,tree on left
+840,C,30658,2,tree on far left,trees on left,tree on left,trees on left corner
+843,C,30698,5,back end of blue car,second from left,person on left,okay so click on left
+846,C,3071,4,row of gems second from the right,big tree on right,tree on right,man in front of building on right
+849,C,30811,3,scuba diver on left,guy in front,person on left,guy in front left
+852,C,3100,4,top right corner,top right corner,tree on right,top right corner
+855,C,3101,4,bottom right leaf,sand bottom right,grass on right,sand bottom right
+858,C,3127,7,horse on right,whatever is on right,person on left,grass in front
+861,C,31284,2,left motorcycle,second from left,grass on left,blue shirt
+864,C,31284,5,red bike fourth in row,3rd from right side,person on right,man with backpack on right
+867,C,31325,3,rightmost person,person on right,tree on right,white shirt
+870,C,31326,2,2nd woman from right,man in orange shirt girl,guy on right,man in orange shirt
+873,C,3142,6,grass behind the buildings on the far right,tree on right,tree on right,tree on right side just to you it
+876,C,31441,4,tree area to the left,tree on left,tree on left,tree trunk on far left
+879,C,3152,4,ft sign on bottom left near huge soda thing,trees on right,second from left,trees all way on right of grass in middle
+882,C,31541,1,asian guy,man in red shirt,tree on left,red shirt
+885,C,3186,1,Pillar back right,2nd from right,tree on right,2nd from right
+888,C,32082,3,middle building blue color,building on right,sky top left,all way to us
+891,C,32245,3,flag right,top right side of pic,2nd from right,top right
+894,C,3234,10,building middle above trees,green part of building,person in front,green part of pic
+897,C,3234,11,car right blue,grass on right,person in front,grass on right
+900,C,32373,2,guy in BLUE helmet,man in blue shirt,person on left,man in blue shirt
+903,C,3238,2,top row of hanging bnananas,very top left of pic,grass on right,very top left of pic
+906,C,3243,4,necklaces on woman in middle,man in front,person on left,sorry that is on right
+909,C,32441,3,number 2 girl,guy in blue,person on right,guy in blue
+912,C,3244,3,person with blue drums right of leftest person,second from left,guy in middle,second from left of guy with red shirt
+915,C,32614,1,lake on right,bottom right,water on right,water to right
+918,C,32802,1,the guy in the blue shirt in middle,person in pink shirt guy,guy in front,person in pink shirt and guy on left
+921,C,32829,1,trash can front,table on right,tree on right,table on right
+924,C,32863,3,skyscraper middle the bigger one left side,bottom left,tree on left,second from left most building with black
+927,C,3290,8,bike to the far left,person on left,water on left,person on left of people
+930,C,3298,2,house on left,window on left of photo,person on left,window on left
+933,C,3362,2,tall building on the left part of the skyline,2nd from left,second from left,all way to left side of pole on top
+936,C,3482,1,box of fruit bottom left,group of picture,person on left,group of picture on left
+939,C,35649,10,right umbrella,whatever is sitting,person on right,red shirt
+942,C,35675,4,trees left,trees on left,person on right,tree left
+945,C,35683,10,van left,white car on left,trees on right,on left
+948,C,35683,8,right truck,gray car,tree on right,gray car
+951,C,35736,10,flag all the way to the left...actual flag not the pole,2nd from left,person in front,lamp post in red shirt and white thing on far left
+954,C,35815,1,The building with the clock on it,building on right side,people on right,white thing on right side of building
+957,C,35945,1,building on right behind guys,white building,water on right,building all way to us
+960,C,35993,2,car facing us,brown thing on left,water on left,bottom left corner
+963,C,3681,1,monkey on the mirror,person in back to left,building on left,girls face on left
+966,C,37079,4,tree foreground,tree on left,tree on right,tree trunk
+969,C,37231,1,left person,wall on left,any person on left,wall left
+972,C,37248,1,bottom,red car,person in front,red
+975,C,37271,4,a man standing in front of a building with snow around,black shirt,person on right,person in red shirt guy with black jacket woman on right
+978,C,37282,3,farthest left tree,trees on far left,tree on left,trees on left
+981,C,37297,1,middle car,white car,tree on left,white car
+984,C,37308,2,Tall tree on far right,tree on right,person on right,tree trunk on far right
+987,C,37447,3,whale on left,whatever is holding,tree on left,whatever is holding
+990,C,37448,2,whale on left,closest to left,group of people on left,closest to left
+993,C,37467,3,left most guy,blue shirt,person on left,guy in front
+996,C,37478,5,red shirt,man in red,trees on left,red shirt
+999,C,37496,5,red biker,guy on left,person on left,on left
+1002,C,37570,1,douchebag on right,guy in front right,palm tree on right,guy in front
+1005,C,37652,6,trees on far left below clouds,trees on left,tree on left,trees on left side of pic
+1008,C,37887,4,right red,person on right,person on right,red shirt
+1011,C,37920,2,brown bulding on right,building on right corner,tree on right,building on right corner
+1014,C,37920,7,glassy panel building by flag,building on far right,person on right,yellow building on far right
+1017,C,37926,4,top half of building,building all way at top,tree on left,all way on left
+1020,C,37932,5,us flag,2nd from left,person in middle,that is
+1023,C,37954,6,white building to the left,very bottom left,person on left,building that is on left
+1026,C,37968,3,center building,white thing that is holding,man on right,tallest building
+1029,C,37969,2,middle building,tallest building on far left,person on left,tallest building
+1032,C,38037,3,brown building on left,tallest building on left,tree on left,tallest building on left
+1035,C,38135,3,spikey building in the middle,tall building on left,tree on right,tall building on lower left
+1038,C,38141,3,2nd building from right,top right,water on right,tall building on right
+1041,C,38857,2,guy in middle white shirt,person in back with blue,tree on left,person in back on left
+1044,C,39117,6,top right corner,tree on right,tree on right,tree on right
+1047,C,3918,11,yangs building,second from left of pic,building on right,yellow building
+1050,C,39343,7,tree on right,tree on far right,tree on right,tree on right
+1053,C,39357,4,dark skyscraper closest to us in the middle-the white bldg is rt behind it,closest to you that is,tree on right,closest to you that is in front of building with black thing on left
+1056,C,39397,4,left car,red car,trees on left,red car
+1059,C,39397,5,right car lol,second from right,person on right,second from right
+1062,C,39486,4,window on 2nd story middle,window on left,tree on left,window on far left corner
+1065,C,39681,3,left building,building on left,tree on left,top left
+1068,C,3977,3,fruits above pineapples on right,small patch of mountain,trees on right,very small patch of mountain
+1071,C,39844,2,Owl on left,man in middle,tree on left,man in middle
+1074,C,39858,2,left animal,okay so close to right,tree on left,mans head
+1077,C,40002,6,sky,sky,sky,sky
+1080,C,40087,5,skinny white man,blue shirt guy in middle,person on right,man in middle
+1083,C,40116,3,right building,tall building on right,trees on right,tall building
+1086,C,40173,3,third white one,big one on right,tree on right,clouds on right
+1089,C,4021,2,black person looking down,man in red shirt guy,people on left,man in red shirt
+1092,C,40241,5,tomatoes or whatever behind bananas,anything but click on left,woman in red,anything but click on left
+1095,C,40244,4,blue,top left corner,sky,left
+1098,C,40282,2,left g-raf,small palm tree on left,tree on left,palm tree
+1101,C,40330,3,white building on right,tall building,building on right,tall building on right
+1104,C,40471,1,left duck,palm tree on left corner,person on left,palm tree
+1107,C,40630,1,gorilla on top,person on far right,tree on left,person in middle
+1110,C,40649,1,big giraffe,grass,man in middle,grass area
+1113,C,4123,5,kid on right,blue shirt guy on right,sky top left,man on right
+1116,C,4126,6,2nd from right bro,man in middle,tree on right,man in black shirt
+1119,C,4180,7,right middle window still,second from right,tree on right,all way to right
+1122,C,4247,9,woman on right,person in black shirt,person on left,person on right
+1125,C,4259,9,the girls shirt in the middle,white shirt man in front,person on left,man in front of white shirt
+1128,C,4262,4,lady in yellow/red,person in red shirt,man in front,person in front
+1131,C,4263,10,guy in red shirtt,red shirt guy in middle,person on left,guy in red shirt
+1134,C,4265,2,trees left behind gate,grass next to left,tree on left,grass next to left
+1137,C,4272,4,large bush on left,tree on left corner,person on left,tree on left corner
+1140,C,4275,4,lower right windows,dark brown door,ground bottom left,dark brown door
+1143,C,4275,7,the lower left window,building on left,top right corner,tall building on left
+1146,C,4312,3,red building,far right side,person on right,far right
+1149,C,4318,3,the door on far right,tall building on right,man on right,tall building on right corner
+1152,C,4483,5,window besides door on left,building on left,tree on left,tall building on far left
+1155,C,4483,7,TOP RIGHT WINDOW,window on right,sky top right,window on right
+1158,C,4662,5,left park bench,grass next to left side,ground bottom right,grass bottom left
+1161,C,4703,1,left penquin,girls head on left,building on left,top left
+1164,C,4872,1,buns on left,second from left,guy in front,second from left
+1167,C,4880,14,leftmost bamboo piece,that is sitting,tree on left,that is sitting
+1170,C,4883,2,upper yellow fruit,rock on right,grass on right,rock on right
+1173,C,4899,16,center post covered in vines,tree on left,person on right,tree trunk on far left
+1176,C,5006,4,left side the two together,closest to us on left,sky top left,closest to us on left
+1179,C,5060,1,bottom center jug,guy in front,ground bottom left,guy in front
+1182,C,5101,1,far left building,tall building on left,tree on left,building on left
+1185,C,5145,8,bottle on top shelf right,guy on right,water on right,top of picture on right
+1188,C,6229,5,bottom middle painting,water in middle,people on right,water in middle
+1191,C,6242,8,small building on right,building on right,person on right,white building on right
+1194,C,6252,7,white horse foreground,guy in front,second from left,guy in front
+1197,C,6297,3,striped fish lower left,second from left,water on left,second from left corner
+1200,C,6306,3,rightmost right looking bird,2nd from right,person on right,2nd from right corner
+1203,C,6327,4,man in blue tank,guy in front,person on right,guy in blue shirt
+1206,C,6972,2,man standing,man sitting on left,tree on left,blue shirt
+1209,C,7011,10,woman bending over on back left,second from left,person on right,second from left of three people
+1212,C,7024,5,plate in front of blue shirt guy,person on left,second from left,person in front of man on left
+1215,C,7041,1,turtle,anything but bird,building,trees
+1218,C,7053,2,left lama,grass on left,tree on left,grass left
+1221,C,7188,3,tree in middle,tree on left,tree on left,tree on left
+1224,C,7281,7,far right cactus,person on right,person on right,person on right
+1227,C,7299,7,little picture to the right of woman's ear (right front of picture),window on right,person on right,brick wall on far right side of picture hanging over mans head
+1230,C,7314,7,guy right,red shirt guy on right,person on right,red shirt
+1233,C,7318,5,far left building,dark spot on far left,tree on left,tree on left
+1236,C,7387,2,chair on bottom left corner,second from left,trees on right,all way on far left
+1239,C,7401,3,drink on table lower left corner,lady in front,tree on left,lady in black thing on left
+1242,C,7401,5,drink in ladys hand bottom right,flower pot on right,man in front,lady in red thing on right
+1245,C,7456,2,chair bottom right,that is sitting on right,bottom right corner,closest to right
+1248,C,7489,4,cake boy,any person,man in front,any person
+1251,C,7504,4,purple onions,2nd from right side,man in front,on right
+1254,C,7505,8,chair under woman right side,guy on right,second from left,open book on right side
+1257,C,7579,5,right building,building on right,group of people,white building
+1260,C,7606,8,left flowers,people in middle,person on left,top left
+1263,C,7701,2,picture on left side of wall,water to left,second from left,water to left of blue shirt
+1266,C,7701,7,tall bottle,man in front,person on left,bottom left
+1269,C,7736,5,green food in bowl farthest away,lady in middle,bottom left corner,lady with glasses on left side
+1272,C,7803,6,bike laying on ground,very top left,person in front,top left of pic
+1275,C,7906,10,wine glass next to bottle with blue label,bottom left of pic,bottom left corner,closest to us on left side of pic
+1278,C,7923,10,basket food left,third from left,tree on right,third from left
+1281,C,7924,5,above right man's ass,tree on right,person on right,palm tree on right
+1284,C,7960,3,blue thing bottom right,bottom right corner,sky top left,very bottom right corner
+1287,C,7960,6,green jacket on left,person on left,second from left,person sitting on left
+1290,C,7975,11,middle bike,second from front of photo,any of people,far left
+1293,C,8006,11,pink jacket,guy in front,man on right,red shirt
+1296,C,8006,8,man on far right with hoodie,any person on far right,bottom left corner,any person in front of man
+1299,C,8010,6,upper right part of right building,building on right,tree on right,top half of building on right
+1302,C,8030,4,super happy guy with redish bottle in middle,all way to left,person on left,person all way to man in red shirt
+1305,C,8058,4,boy in red shirt,man in red and black,guy on left,man in red shirt
+1308,C,8156,4,tan hat on man bent over,white hat on left,wall on left,white shirt and hat on left
+1311,C,8205,6,bottom right leaf by mans leg,closest to right,any of people,closest to us on far right
+1314,C,8221,1,tree on left,palm tree on left side,tree on left,tree on left
+1317,C,8221,2,center top tree,green area in middle,tree on left,trees in middle
+1320,C,8280,1,girl left,guy in front,tree on left,in front
+1323,C,8284,2,layer below mountains,sky,water on right,mountain range only
+1326,C,8338,1,seal closest to us,sand on right corner,man in front,sand on right corner
+1329,C,8392,4,mountains below the clouds to the far left,all way left,water on left,okay so any part of picture on left
+1332,C,8405,2,hat right,red thing on far right,person on right,top right
+1335,C,8460,4,boat front,people,any part of people,tile floor
+1338,C,8479,9,left bottom corner,bottom left corner,guy in front,bottom left corner
+1341,C,8613,9,wheel of 3rd man from left,2nd from left,person on left,lamp post on far left side
+1344,C,862,1,kid middle,man,water,little boy
+1347,C,8638,2,large plant on left,guy on left,tree on left,bottom left of picture
+1350,C,8716,7,the bottle on the right,beer bottle on right,bottom left corner,beer bottle on right hand
+1353,C,875,3,kid left back,second from left,person on left,second from left
+1356,C,8802,8,3rd pot from bottom,bottom right corner,person on right,bottom right of pic
+1359,C,8811,7,bike of left dud3e,second from left,tree on right,palm tree on left
+1362,C,8820,15,bottom right corner,palm tree on far right,second from left,bottom right corner
+1365,C,8830,7,cactus right side near us,water on far right,tree on right,black thing on far right
+1368,C,8896,1,any window,window,sky top right,first window
+1371,C,8902,3,man on left,man in middle,man on left,man in middle
+1374,C,8904,5,middle structure slightly obscured,man in background,guy in middle,man in black shirt
+1377,C,8912,9,plate right under the guy's arm,white thing that looks like,bottom right corner,white thing that looks like it
+1380,C,8940,3,left seal,girl in background on left,person on left,top left
+1383,C,8991,12,boy navy shirt foreground,blue shirt guy in front,sky top right,guy in blue shirt
+1386,C,8993,3,green shirt girl,man in white shirt,person on left,person on right
+1389,C,9023,2,first tree,tree on right,grass on left,palm tree
+1392,C,9048,2,man to the right- dark blue,guy on right,sky top right,man in middle guy on right
+1395,C,9055,3,2nd person from left,man in front,person on right,man in red shirt
+1398,C,9055,5,4th person from left,man in red,person on left,man in red shirt
+1401,C,9057,8,horse 5th from left,guy in middle,person on right,in front of pic
+1404,C,9066,3,bottom right corner,that is holding,tree on right,that is holding
+1407,C,9105,10,bright blue shirt,guy in blue,person on left,guy in middle
+1410,C,9105,4,green shirt woman on right,man in front,sky top right,red shirt guy in front
+1413,C,9107,1,leftest bike,guy in front on left,person on left,on left
+1416,C,9126,8,bottle with orange label,closest to us,bottom left corner,all way to us
+1419,C,9132,10,hanging oranges top left,woman in back to left,tree on left,woman in red shirt
+1422,C,9150,3,bird on left,left of picture,tree on left,left of picture
+1425,C,9208,3,wine bottle,red shirt guy in front,person on right,red shirt
+1428,C,9220,10,bottom right object,2nd from right,tree on left,bottom right corner
+1431,C,9220,3,white car lower center,whatever that is,person on left,all way to left
+1434,C,9267,4,chick in red shirt,white shirt guy in middle,guy in red,guy in red shirt
+1437,C,9285,3,tire on side near us,snow in front,ground bottom left,snow in front of screen
+1440,C,9345,5,area above left mans head,woman in back left,tree on left,woman in background on left
+1443,C,9391,7,window behind womans head,window next to left side,people on right,window next to left
+1446,C,9404,11,plate on right close to arm,very bottom right,building on right,bottom right of guy in front
+1449,C,9409,7,little treee sticking out of right half of roof,tall palm tree,bottom right corner,palm tree on right next to left of screen
+1452,C,9440,8,the little houses in the middle by the water,patch of picture,tree on left,all way to left of picture on far right
+1455,C,9440,9,very middle building,all way on left,person on left,all way back
+1458,C,9589,6,white bush on left,closest to left,second from left,palm tree to left
+1461,C,9623,2,pink shirt on wall,whatever is holding,man on left,small patch of sign
+1464,C,9644,1,right hill,mountain range just to right,trees on right,mountain range
+1467,C,9653,8,farthest tree right,tree on right,tree on right,tree on right
+1470,C,9677,13,water to the left of gut in blue shirt,trees on left,people on right,trees on left of guy with spiders in background
+1473,C,9683,8,surfboard closest to us,closest to right,very bottom left,sidewalk next to right
+1476,C,9712,11,second bike from right,2nd from right,tree on left,2nd from right corner
+1479,C,9712,2,blue building,yellow building on left,person in red,yellow building
+1482,C,9718,7,the person in the middel,person in middle,person on left,red shirt guy in middle
+1485,C,9794,7,man on right,person on right,person on right,person on right
+1488,C,9801,14,drink below pointing finger,2nd from right,tree on left,lamp post on right
+1491,C,9896,9,white chair hanging at back,2nd from right,second from left,man on far right side
+1494,C,9910,4,white house left,yellow building on left side,sky top right,building on left
+1497,C,9986,3,middle thing,man in front of it,building on right,bottom left
